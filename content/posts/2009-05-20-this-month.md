@@ -1,0 +1,7 @@
++++
+date = "2009-05-20T14:26:00+00:00"
+draft = false
+tags = ["movie", "1", "can039;t sleep", "ticket", "movies", "shitty long poem"]
+title = "This Month"
++++
+Murderers dance to happy songs<br/>And you wheel the bin<br/>Up and down the driveway<br/>.<br/>All the movie tickets are fading on the wall<br/>.<br/>But not this one<br/>Why doesn't this one bubble and warp?<br/>I remember the events attached to this one<br/>.<br/>These tickets are dead animals, prizes,<br/>Maybe<br/>.<br/>Will my mind rot like the tickets?<br/>Eternal sunshine on the spotless mind<br/>If I had it erased<br/>I'd just repeat everything again<br/>That's what they say<br/>.<br/>I'd rather think that my amazing bad luck would drive the knife<br/>.<br/>Falling out<br/>.<br/>Near the tickets<br/>.<br/>Chickens and ducks in the cupboard<br/>.<br/>Never remembered those<br/>I remember not remembering<br/>.<br/>I'm looking at the river<br/>But I'm thinking of the sea<br/>.<br/>Buy the movie ticket to this life<br/>It'll bubble and fade and you'll forget you saw it<br/>.<br/>Just take it out on DVD<br/>Watch it on fast-forward<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-8340865216423843156?l=cosmiccowbell.blogspot.com' alt='' /></div>

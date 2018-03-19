@@ -1,0 +1,7 @@
++++
+date = "2009-02-21T23:56:00+00:00"
+draft = false
+tags = ["1"]
+title = "More Sunburn"
++++
+<blockquote><strong>Something else</strong><br/><br/>.<br/><br/>What is it?<br/><br/>What's inside this lobe<br/><br/>Field of daisies<br/><br/>Fields of you and i<br/><br/>Where our eyes don't meet.<br/><br/>Where we use our feet<br/><br/>To find opposite hemispheres in which  to lie<br/><br/>.<br/><br/>I think the sense has left<br/><br/>What's there is how it works now:<br/><br/>running idle<br/><br/>.<br/><br/>Running.<br/><br/>I run through dirty hospitals<br/><br/>Trying to save people from being cut up<br/><br/>Alive<br/><br/>.<br/><br/>Where did this come from?<br/><br/>What is it?<br/><br/>It's something else.<br/><br/>You don't exist anymore</blockquote><br/>.<br/><blockquote><strong>1247</strong><br/><br/>.<br/><br/>What's going to happen?<br/><br/>Forbid the new things, please.<br/><br/>I'm not liking what I feel,<br/><br/>What I can see I know will happen<br/><br/>.<br/><br/>I find the whole scenario<br/><br/>Found it grotesque<br/><br/>.<br/><br/><em>At least I like Sherbies</em><br/><br/><em>My parents, their lives,</em><br/><br/><em>Mine? </em><br/><br/><em>The pretty girlies.</em><br/><br/>.<br/><br/>I'm under construction?<br/><br/>That'll do.</blockquote><div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-7894094726820246263?l=cosmiccowbell.blogspot.com' alt='' /></div>

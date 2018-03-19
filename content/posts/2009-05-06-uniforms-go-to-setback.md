@@ -1,0 +1,7 @@
++++
+date = "2009-05-06T21:28:00+00:00"
+draft = false
+tags = ["1"]
+title = "Uniforms Go To Setback"
++++
+<blockquote><strong>4.59</strong><br/><br/>.<br/><br/>I end those stairs<br/><br/>And find that door<br/><br/>And you're getting angry<br/><br/>.<br/><br/>The other goes to sleep<br/><br/>You rub your head on the desk<br/><br/>There aren't any chips<br/><br/>So I leave</blockquote><br/>.<br/><blockquote><strong>Hair</strong><br/><br/>.<br/><br/>Thank you for your scissors<br/><br/>I don't thank you enough<br/><br/>There are lots of fissures</blockquote><br/>.<br/><blockquote><strong>Passcode cooldrink</strong><br/><br/>.<br/><br/>The biggest challenge<br/><br/>The most accepting<br/><br/>For these things I am<br/><br/>Dually and simulataneously<br/><br/>Euphoric and mortally afraid</blockquote><br/>.<br/><blockquote><strong>Pens</strong><br/><br/>.<br/><br/>All the pens<br/><br/>Leak<br/><br/>Dry out<br/><br/>Refuse to work in general<br/><br/>I have a computer but I want to use a pen sometimes</blockquote><div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-6697702285436696279?l=cosmiccowbell.blogspot.com' alt='' /></div>

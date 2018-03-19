@@ -1,0 +1,7 @@
++++
+date = "2008-12-03T23:44:00+00:00"
+draft = false
+tags = ["1"]
+title = "Zombie Cancer!!"
++++
+<blockquote><strong>For Something Inside a Head</strong><br/><br/>.<strong><br/></strong><br/><br/>I'm going to hope<br/><br/>You shine<br/><br/>Shine shine<br/><br/>Shine Your Young Goodhappy away<br/><br/>Put the thunder back in your ears,<br/><br/>back in that cage<br/><br/>between your elbows.<br/><br/>And hope that you<br/><br/>Make it rain outside<br/><br/>Freeze off those damn knuckles<br/><br/>And then melt them back by that fire<br/><br/>.<br/><br/>Because nothing really matters<br/><br/>In the good way.</blockquote><br/>.<br/><blockquote><strong>For Something Inside a Chest</strong><br/><br/>.<strong><br/></strong><br/><br/>Summon you two<br/><br/>Have you together<br/><br/>.<br/><br/>Dust settles even on a used room<br/><br/>Come to mention, settling slowly now,<br/><br/>Never one for teen love,<br/><br/>Not now anyway.<br/><br/>.<br/><br/>Suddenly this is about me<br/><br/>I think a song for you two<br/><br/>Would be impossible,<br/><br/>I just don't believe in you two.</blockquote><div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-1789996697904256331?l=cosmiccowbell.blogspot.com' alt='' /></div>

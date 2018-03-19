@@ -1,0 +1,7 @@
++++
+date = "2009-10-02T23:09:00+00:00"
+draft = false
+tags = ["1", "malasrion"]
+title = "\"God Jerry I'm Sorry, I'm Sorry, I'm Really Sorry Jerry\""
++++
+Harkoff found himself emptying sand onto the cheap rug running across the hollow, thinning floor-boards of the Minister's office.<br/><br/>"Wake up, little dreamer!" Shrendig rolled Harkoff out of their sack-cloth shade and onto the burning desert sand. He laid there for a moment, before scrambling back into the shade.<br/><br/>"You know you called out in your sleep."<br/><br/>"Shut up," Harkoff's sleep-enduced stupor hadn't yet worn off.<br/><br/>"You called out for that girl you tattled to about your test-operation."<br/><br/>"I said shut the <em>fuck</em> up!"<br/><br/>"You know what you said?" Foolio jeered, his headclothes thinning and torn, revealing a beard compacted against his face.<br/><br/>Harkoff rammed a pair of hands underneath his desert-goggles in discomfort.<br/><br/>Shrendig and Foolio jeered even though they were exhausted, and and as they did the ground began to moan and tremble, and in the deep south the wasting three could hear some sort of shrill, distorted wail.<br/><br/>Each looked to the other; they remembered the photographs.<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-6661015470225496150?l=cosmiccowbell.blogspot.com' alt='' /></div>

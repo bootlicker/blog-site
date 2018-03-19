@@ -1,0 +1,7 @@
++++
+date = "2009-10-15T11:30:00+00:00"
+draft = false
+tags = ["pen", "1", "stuff", "antics", "happiness", "ugly people", "cat"]
+title = "Written Backwards"
++++
+'okay'<br/><br/>'okay'<br/><br/>'haha'<br/><br/>'okay'<br/><br/>.<br/><p style="text-align:right;">"You know, that's it, we're not making any progress here, just go home guys."</p><br/><p style="text-align:right;">Chairs met tables, scraped walls, exhausted and exasperated students slipped outside, past the poorly lit faculty façade, Jerome scoffing to himself.</p><br/><p style="text-align:right;">"God.. Idiots."</p><br/><p style="text-align:right;">Laughter seemed to boil out of the creamy sun-bleached wall light spewing silhouettes onto red bricks, Jerome spun around and a pair of arms locked him from behind.</p><br/><p style="text-align:right;">The tutor might or might not've seen two figures he recognised from moments before exacting revenge on the ever-knowledgeable Jerome.</p><br/>.<br/><blockquote>HEEEEE-HHHEYYYYY<br/>OH YEAH BABY<br/>-<br/><br/>like a fool,<br/><br/>I went and stayed too long<br/><br/>now Im wondering if your loves still strong<br/><br/>ooooh baby,<br/><br/>here I am,<br/><br/>signed, sealed, delivered</blockquote><br/>.<br/><br/>"This is<br/><br/>why I don't<br/><br/>emotionally rely on<br/><br/>people."<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-1315287770796854646?l=cosmiccowbell.blogspot.com' alt='' /></div>

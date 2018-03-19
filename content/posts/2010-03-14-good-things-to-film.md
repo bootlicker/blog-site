@@ -1,0 +1,7 @@
++++
+date = "2010-03-14T11:18:00+00:00"
+draft = false
+tags = ["movie", "1", "film", "camera"]
+title = "Good Things To Film"
++++
+Reading the paper<br/><br/>My nana's old slipper that is really worn<br/><br/>The big derelict Wool Store in Freo<br/><br/>Old Automechanics on Shakespeare St<br/><br/>Conversation on the back seat of a bus<br/><br/>Edge of a bridge late at night<br/><br/>A continuous shot of a gun-fight<br/><br/>Big zoom in of a guy in a park<br/><br/>Guy in an office cubicle<br/><br/>Conversation of some friends at a restaurant<br/><br/>That shot of Woody Allen and that other guy in Annie Hall where they walk towards the camera on the street from the distance and then the camera follows them, moving backwards<br/><br/>Some birds on grass<br/><br/>My cat in the garden<br/><br/>The corners of some shiny buildings with some clouds moving behind them<br/><br/>'Talking heads' shots<br/><br/>A couple of guys breaking into a house, talking about something inane<br/><br/>Two people at a bar<br/><br/>A guy being shot<br/><br/>Shot of a guy walking on a street from a window, the camera turns from looking out of the window to some people in the upstairs room<br/><br/>A 5 minute shot of a person's face while a few other people in the same room are talking<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-3620935086547195453?l=cosmiccowbell.blogspot.com' alt='' /></div>

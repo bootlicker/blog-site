@@ -1,0 +1,7 @@
++++
+date = "2009-07-28T22:11:00+00:00"
+draft = false
+tags = ["1", "malasrion"]
+title = "The Valley Doesn't Differ From The Kitchen Sink"
++++
+Inside the vault were millions of filing cabinets, some rusting, some newly enameled. The Minister had returned once again, forced to reveal another of its secrets. He fussed with the folders he pulled from cabinets heavy in their various aisles. Like most of Ragzin's hidden installations, fluorescent light glowed ominously from the ceilings and walls, giving the massive white-tiled warehouse an unholy cleanliness.<br/><br/><em>Why can't there be some plans for getting rid of speaker-tubes in here?</em><br/><br/>Such was the game - when Gremanese forces visibly quadrupled, the Minister descended below the waves of the Great Lake and rifled through Ragzin's secrets.<br/><br/><em>Duck men?</em><br/><br/><em>Tele-audio? That doesn't sound like a weapon...</em><br/><br/><em>Sea-ships made from ice? How absurd.</em><br/><br/>Hours of searching yielded some results: A folder labelled <em>'The living dead'</em>.<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-3884640625914285949?l=cosmiccowbell.blogspot.com' alt='' /></div>

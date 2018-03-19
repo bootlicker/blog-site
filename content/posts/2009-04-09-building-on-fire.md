@@ -1,0 +1,7 @@
++++
+date = "2009-04-09T23:13:00+00:00"
+draft = false
+tags = ["1"]
+title = "Building On Fire"
++++
+The Malasrionese parliament rests at the bottom of the desert, just beyond the estuary that divides Nela from Jou. Its enormous marble columns roll out of its roof, and behind them hang big gold doors, that beam like suns out over both sides of the water. The building had fallen into serious neglect throughout Ragzin's time in power, no-one saw any point in talking about things no-one had the power to change. Its doors were locked, and everyone left.<br/><br/>The representatives arrived by land and by air.<br/><br/>"They look like children."<br/><br/>"Don't talk with your mouth full."<br/><br/>The Minister stepped back from a window, breakfast in hand.<br/><br/>"They're just milling around down there."<br/><br/>Bertrina gave him a look to remember.<br/><br/>[It's so hard to write anything without anyone talking, I just can't objectively describe anything without someone Malasrionese telling the story... I don't know, I'll come back to this. My whole admin panel is littered in draft posts I just hate, but need to make... guhhhhh]<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-7807644731342374625?l=cosmiccowbell.blogspot.com' alt='' /></div>

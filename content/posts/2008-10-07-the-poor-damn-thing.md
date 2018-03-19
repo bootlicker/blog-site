@@ -1,0 +1,7 @@
++++
+date = "2008-10-07T21:53:00+00:00"
+draft = false
+tags = ["1", "robots are real", "robot cat freaked me out", "robot", "robotssss"]
+title = "The poor damn thing"
++++
+There was she, on my livingroom floor, knife in her back.<br/><br/>"Jesus Christ, he was serious wasn't he?"<br/><br/>"Help me."<br/><br/>My blue carpet was being stained a deep hue now, blood practically pouring from the many wounds. I panicked. I knew nothing, I couldn't tell her to stop getting up, because I didn't want to scare her - if I she panicked, that'd be the end of everything.<br/><br/>Bandages, band-aids, shirts... tape for Christ's sake, I did all I could to patch things up until I could think of who to call, who to trust.<br/><br/>"I love you, Jean," her crooked smile and forever-blue eyes looking right into me. I started to cry.<br/><br/>"I love you too," I put a hand on her shredded cheek she couldn't feel, the latex skin covering her titanium skeleton.<br/><br/>I remember her skewed hair and dislodged teeth to this day, doused in the fluid from her hydraulics, her arm on the other side of the room reaching for my hand that just wasn't there.<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/5693059957647979680-6779550191655969227?l=cosmiccowbell.blogspot.com' alt='' /></div>
