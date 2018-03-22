@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-01-23T02:32:43+00:00
 url: /2017/01/23/it-is-a-law-of-capitalism-that-capital-will-centralise/
-categories:
+tags:
   - Uncategorised
 
 ---

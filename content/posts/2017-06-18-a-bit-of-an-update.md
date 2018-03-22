@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-06-18T09:33:13+00:00
 url: /2017/06/18/a-bit-of-an-update/
-categories:
+tags:
   - Uncategorised
 tags:
   - attitude changes

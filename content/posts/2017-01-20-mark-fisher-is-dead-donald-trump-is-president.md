@@ -6,7 +6,7 @@ date: 2017-01-20T07:29:05+00:00
 url: /2017/01/20/mark-fisher-is-dead-donald-trump-is-president/
 publicize_twitter_user:
   - dirtycommo
-categories:
+tags:
   - Uncategorised
   - Uncategorized
 

@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-08-31T06:54:09+00:00
 url: /2017/08/31/a-game-about-mega-churches/
-categories:
+tags:
   - Uncategorised
 
 ---

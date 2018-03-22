@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-20T06:14:32+00:00
 url: /2018/02/20/motorola-68000-based-linux-computer/
-categories:
+tags:
   - Uncategorised
 
 ---

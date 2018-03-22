@@ -5,7 +5,7 @@ type: post
 date: 2017-01-24T05:40:22+00:00
 url: /2017/01/24/what-to-do-after-youve-punched-a-nazi/
 featured_image: /wp-content/uploads/2017/01/Strijdlustige_vrouw_-_Woman_ready_to_fight_3334194838-e1485231630938.jpg
-categories:
+tags:
   - Uncategorised
 tags:
   - alt-right

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-09-13T02:01:54+00:00
 url: /mega-drive/blast-processing/
-categories:
+tags:
   - Mega Drive
   - SNES
 

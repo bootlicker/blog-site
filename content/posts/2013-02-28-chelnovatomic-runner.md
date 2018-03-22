@@ -6,7 +6,7 @@ date: 2013-02-28T03:24:37+00:00
 url: /mega-drive/chelnovatomic-runner/
 original_post_id:
   - 600
-categories:
+tags:
   - Mega Drive
 
 ---

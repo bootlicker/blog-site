@@ -5,7 +5,7 @@ type: post
 date: 2017-04-01T08:24:48+00:00
 url: /2017/04/01/the-penalty-rates-cuts-everything-you-need-to-know/
 featured_image: /wp-content/uploads/2017/04/Softdrinks_in_supermarket.jpg
-categories:
+tags:
   - Uncategorised
 tags:
   - australia

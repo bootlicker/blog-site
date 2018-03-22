@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-06T12:24:23+00:00
 url: /2018/02/06/some-reasons-to-love-the-programming-language-ada/
-categories:
+tags:
   - Uncategorised
 
 ---

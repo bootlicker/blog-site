@@ -12,7 +12,7 @@ al2fb_facebook_link_picture:
   - featured=http://jumpnshoot9000.com/wp-content/uploads/2013/01/Sega-Saturn-Model1-Bare1-150x150.jpg
 original_post_id:
   - 338
-categories:
+tags:
   - Saturn
 
 ---

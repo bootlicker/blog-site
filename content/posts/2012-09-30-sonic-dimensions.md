@@ -6,7 +6,7 @@ date: 2012-09-30T09:46:17+00:00
 url: /dreamcast/sonic-dimensions/
 publicize_reach:
   - 'a:2:{s:7:"twitter";a:1:{i:28617;i:176;}s:2:"wp";a:1:{i:0;i:0;}}'
-categories:
+tags:
   - Dreamcast
   - PC
 

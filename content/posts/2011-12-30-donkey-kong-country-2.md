@@ -6,7 +6,7 @@ date: 2011-12-30T15:57:21+00:00
 url: /snes/donkey-kong-country-2/
 publicize_results:
   - 'a:2:{s:7:"twitter";a:1:{i:29364284;a:2:{s:7:"user_id";s:10:"hotelsdown";s:7:"post_id";s:18:"152780322965164032";}}s:2:"fb";a:1:{i:298827866826066;a:2:{s:7:"user_id";s:15:"298827866826066";s:7:"post_id";s:15:"302770036431849";}}}'
-categories:
+tags:
   - SNES
 
 ---

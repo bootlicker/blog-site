@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-27T02:27:15+00:00
 url: /2018/02/27/another-idea/
-categories:
+tags:
   - Uncategorised
 
 ---

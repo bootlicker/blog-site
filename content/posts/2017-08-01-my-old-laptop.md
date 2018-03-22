@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-08-01T13:25:34+00:00
 url: /2017/08/01/my-old-laptop/
-categories:
+tags:
   - Uncategorised
 
 ---

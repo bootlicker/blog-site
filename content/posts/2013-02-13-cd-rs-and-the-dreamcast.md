@@ -12,7 +12,7 @@ al2fb_facebook_link_picture:
   - featured=http://jumpnshoot9000.com/wp-content/uploads/2013/02/dreamcast-controller-150x150.jpg
 original_post_id:
   - 449
-categories:
+tags:
   - Dreamcast
 
 ---

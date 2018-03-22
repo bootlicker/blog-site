@@ -5,7 +5,7 @@ type: post
 date: 2017-01-22T10:57:16+00:00
 url: /2017/01/22/under-capitalism-work-is-theft/
 featured_image: /wp-content/uploads/2017/01/Clean-up_Crew.jpg
-categories:
+tags:
   - Uncategorised
 tags:
   - ancap

@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-13T05:58:42+00:00
 url: /2018/02/13/pulseaudio-fix-for-kde/
-categories:
+tags:
   - Uncategorised
 
 ---

@@ -6,7 +6,7 @@ date: 2013-01-10T08:10:26+00:00
 url: /ps2/end-of-ps2-production/
 original_post_id:
   - 325
-categories:
+tags:
   - PS2
 
 ---

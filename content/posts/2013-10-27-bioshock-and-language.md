@@ -11,7 +11,7 @@ publicize_twitter_user:
   - hotelsdown
 publicize_twitter_url:
   - http://t.co/qfhtlEwFWY
-categories:
+tags:
   - Random Updates
 
 ---

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-09-22T03:29:50+00:00
 url: /pc/scrumble-ship/
-categories:
+tags:
   - PC
 tags:
   - indie project

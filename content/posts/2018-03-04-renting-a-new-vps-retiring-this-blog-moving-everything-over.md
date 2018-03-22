@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-03-04T11:31:04+00:00
 url: /2018/03/04/renting-a-new-vps-retiring-this-blog-moving-everything-over/
-categories:
+tags:
   - Uncategorised
 
 ---

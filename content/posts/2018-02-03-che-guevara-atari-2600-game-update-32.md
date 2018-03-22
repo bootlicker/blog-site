@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-03T09:39:32+00:00
 url: /2018/02/03/che-guevara-atari-2600-game-update-32/
-categories:
+tags:
   - Uncategorised
 
 ---

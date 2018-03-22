@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-06-18T04:38:25+00:00
 url: /nes/super-mario-3/
-categories:
+tags:
   - NES
 
 ---

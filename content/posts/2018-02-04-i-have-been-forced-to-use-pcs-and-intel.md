@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-04T08:14:03+00:00
 url: /2018/02/04/i-have-been-forced-to-use-pcs-and-intel/
-categories:
+tags:
   - Uncategorised
 
 ---

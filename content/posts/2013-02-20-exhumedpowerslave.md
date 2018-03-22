@@ -12,7 +12,7 @@ al2fb_facebook_link_picture:
   - featured=http://jumpnshoot9000.com/?al2fb_image=1
 original_post_id:
   - 464
-categories:
+tags:
   - Saturn
 tags:
   - Hardware

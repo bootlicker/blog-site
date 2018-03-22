@@ -9,7 +9,7 @@ sharing_disabled:
   - 1
 switch_like_status:
   - 1
-categories:
+tags:
   - Uncategorised
   - Uncategorized
 

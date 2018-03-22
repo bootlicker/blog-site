@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-06T02:26:34+00:00
 url: /game-gear/last-missing-licenced-sega-game-gear-rom-found/
-categories:
+tags:
   - Game Gear
 
 ---

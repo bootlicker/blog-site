@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-27T03:46:13+00:00
 url: /random-updates/sony-console-war-movie/
-categories:
+tags:
   - Random Updates
 
 ---

@@ -8,7 +8,7 @@ publicize_reach:
   - 'a:2:{s:7:"twitter";a:1:{i:28617;i:182;}s:2:"wp";a:1:{i:0;i:0;}}'
 publicize_twitter_user:
   - hotelsdown
-categories:
+tags:
   - Random Updates
 
 ---

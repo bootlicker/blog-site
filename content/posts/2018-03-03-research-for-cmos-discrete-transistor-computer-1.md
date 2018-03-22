@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-03-03T01:56:11+00:00
 url: /2018/03/03/research-for-cmos-discrete-transistor-computer-1/
-categories:
+tags:
   - Uncategorised
 
 ---

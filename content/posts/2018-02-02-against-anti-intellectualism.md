@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-02T05:41:39+00:00
 url: /2018/02/02/against-anti-intellectualism/
-categories:
+tags:
   - Uncategorised
 
 ---

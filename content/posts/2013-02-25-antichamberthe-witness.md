@@ -6,7 +6,7 @@ date: 2013-02-25T05:35:20+00:00
 url: /pc/antichamberthe-witness/
 original_post_id:
   - 562
-categories:
+tags:
   - PC
   - PS4
   - Wii U

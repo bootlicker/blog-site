@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-10T03:31:04+00:00
 url: /2018/02/10/the-kleptocracy-of-the-usa/
-categories:
+tags:
   - Uncategorised
 
 ---

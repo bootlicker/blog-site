@@ -5,7 +5,7 @@ type: post
 date: 2017-03-23T02:41:38+00:00
 url: /2017/03/23/main-points-behind-the-labour-theory-of-value/
 featured_image: /wp-content/uploads/2017/03/Gold_bullion_ap_001-e1490236586480.jpg
-categories:
+tags:
   - Uncategorised
 tags:
   - basics

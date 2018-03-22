@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-12T14:11:44+00:00
 url: /2018/02/12/my-birthday-2/
-categories:
+tags:
   - Uncategorised
 
 ---

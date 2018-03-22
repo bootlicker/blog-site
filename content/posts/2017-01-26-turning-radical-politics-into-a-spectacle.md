@@ -5,7 +5,7 @@ type: post
 date: 2017-01-26T09:08:38+00:00
 url: /2017/01/26/turning-radical-politics-into-a-spectacle/
 featured_image: /wp-content/uploads/2017/01/Oppression-458621_1280.jpg
-categories:
+tags:
   - Uncategorised
 
 ---

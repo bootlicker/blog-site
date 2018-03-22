@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-05T13:02:02+00:00
 url: /2018/02/05/everyone-always-forgets-about-hegel/
-categories:
+tags:
   - Uncategorised
 
 ---

@@ -6,7 +6,7 @@ date: 2012-12-31T06:33:05+00:00
 url: /n64/nintendo-64-analogue-stick-replacement/
 publicize_twitter_user:
   - hotelsdown
-categories:
+tags:
   - N64
 
 ---

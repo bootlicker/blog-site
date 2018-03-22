@@ -6,7 +6,7 @@ date: 2013-02-27T02:39:42+00:00
 url: /ps3/ps3-bargain-bin/
 original_post_id:
   - 560
-categories:
+tags:
   - PS3
 tags:
   - Review

@@ -12,7 +12,7 @@ al2fb_facebook_link_time:
   - 2013-01-27T11:30:51+00:00
 original_post_id:
   - 372
-categories:
+tags:
   - Mega Drive
 
 ---

@@ -1,6 +1,6 @@
-baseurl = "https://www.example.com"
+baseurl = "https://bootlicker.party"
 languageCode = "en"
-title = "Hugo Kiss theme"
+title = "BOOTLICKER"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
 disqusShortname = "shortname"
@@ -16,7 +16,7 @@ customCSS = ["css/custom.css"]
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = false # Adds OpenGraph and Twitter cards
-homeTitle = "" # Title for home page
+homeTitle = "BOOTLICKER" # Title for home page
 poweredby = true # Adds powered by Hugo and Kiss below Copyright section
 related = true # Includes related articles
 
@@ -30,11 +30,11 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = "ribicemir"
-github = "ribice"
-email = "ribice@gmail.com"
-linkedin = "ribice"
-facebook = "ribice"
+twitter = "dirtycommo"
+github = "bootlicker"
+email = "buhlairr@gmail.com"
+linkedin = ""
+facebook = ""
 instagram = ""
 codepen = ""
 

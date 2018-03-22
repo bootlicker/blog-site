@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-08-29T10:37:48+00:00
 url: /2017/08/29/more-detailed-ideas-for-a-game-about-revolution/
-categories:
+tags:
   - Uncategorised
 
 ---

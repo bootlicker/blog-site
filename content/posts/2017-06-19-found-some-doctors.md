@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-06-19T10:38:59+00:00
 url: /2017/06/19/found-some-doctors/
-categories:
+tags:
   - Uncategorised
 
 ---

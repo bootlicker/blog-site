@@ -6,7 +6,7 @@ date: 2013-02-24T02:51:56+00:00
 url: /n64/more-unbridled-praise-for-lobotomy-softwareezra-dreisbach/
 original_post_id:
   - 552
-categories:
+tags:
   - N64
   - Saturn
 tags:

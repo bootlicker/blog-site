@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-20T14:18:48+00:00
 url: /snes/perspective/
-categories:
+tags:
   - SNES
 
 ---

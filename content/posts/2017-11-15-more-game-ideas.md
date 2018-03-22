@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-11-15T11:05:58+00:00
 url: /2017/11/15/more-game-ideas/
-categories:
+tags:
   - Uncategorised
 
 ---

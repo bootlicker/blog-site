@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-13T11:00:04+00:00
 url: /2018/02/13/extensions-for-firefox-for-your-privacy/
-categories:
+tags:
   - Uncategorised
 
 ---

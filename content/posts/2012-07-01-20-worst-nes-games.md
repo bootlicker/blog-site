@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-07-01T03:54:02+00:00
 url: /nes/20-worst-nes-games/
-categories:
+tags:
   - NES
 
 ---

@@ -12,7 +12,7 @@ al2fb_facebook_link_picture:
   - featured=http://jumpnshoot9000.com/wp-content/uploads/2013/02/pc-engine-gamer-mag-cover-150x150.png
 original_post_id:
   - 454
-categories:
+tags:
   - PC Engine
 
 ---

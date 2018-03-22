@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-25T23:16:13+00:00
 url: /2018/02/25/project-ideas/
-categories:
+tags:
   - Uncategorised
 
 ---

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-10-03T05:37:37+00:00
 url: /pc/another-bundle/
-categories:
+tags:
   - PC
 
 ---

@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-06-21T01:23:03+00:00
 url: /2017/06/21/linux-and-the-gnu-project/
-categories:
+tags:
   - Uncategorised
 
 ---

@@ -6,7 +6,7 @@ date: 2017-01-20T08:05:28+00:00
 url: /2017/01/20/the-automatic-operation-of-ideology/
 publicize_twitter_user:
   - dirtycommo
-categories:
+tags:
   - Uncategorised
   - Uncategorized
 

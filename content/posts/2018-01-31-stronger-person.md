@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-01-31T14:22:44+00:00
 url: /2018/01/31/stronger-person/
-categories:
+tags:
   - Uncategorised
 
 ---

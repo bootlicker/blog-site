@@ -5,7 +5,7 @@ type: post
 date: 2017-09-04T04:43:47+00:00
 url: /2017/09/04/music-cassette-review-a-band-called-horse/
 featured_image: /wp-content/uploads/2017/09/AbcHorsecover.jpg
-categories:
+tags:
   - Uncategorised
 
 ---

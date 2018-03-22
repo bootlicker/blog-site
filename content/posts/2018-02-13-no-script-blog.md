@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-13T10:56:01+00:00
 url: /2018/02/13/no-script-blog/
-categories:
+tags:
   - Uncategorised
 
 ---

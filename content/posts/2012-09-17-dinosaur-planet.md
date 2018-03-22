@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-09-17T03:33:26+00:00
 url: /n64/dinosaur-planet/
-categories:
+tags:
   - N64
 tags:
   - gaming

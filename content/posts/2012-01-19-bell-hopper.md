@@ -6,7 +6,7 @@ date: 2012-01-19T04:04:54+00:00
 url: /atari-2600/bell-hopper/
 publicize_results:
   - 'a:2:{s:7:"twitter";a:1:{i:29364284;a:2:{s:7:"user_id";s:10:"hotelsdown";s:7:"post_id";s:18:"159848790105407488";}}s:2:"fb";a:1:{i:298827866826066;a:2:{s:7:"user_id";s:15:"298827866826066";s:7:"post_id";s:15:"314424218599764";}}}'
-categories:
+tags:
   - Atari 2600
 
 ---

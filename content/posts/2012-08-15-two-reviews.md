@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-15T14:43:03+00:00
 url: /snes/two-reviews/
-categories:
+tags:
   - SNES
 
 ---

@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-08T00:28:50+00:00
 url: /2018/02/08/the-women-in-efrin-rojava-are-being-armed/
-categories:
+tags:
   - Uncategorised
 
 ---

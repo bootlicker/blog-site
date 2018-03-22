@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-06-13T16:22:11+00:00
 url: /pc/yet-another-really-good-half-life-mod/
-categories:
+tags:
   - PC
 
 ---

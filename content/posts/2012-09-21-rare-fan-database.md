@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-09-21T02:20:49+00:00
 url: /n64/rare-fan-database/
-categories:
+tags:
   - N64
 tags:
   - Banjo Kazooie

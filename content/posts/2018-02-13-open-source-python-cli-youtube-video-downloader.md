@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-13T09:51:44+00:00
 url: /2018/02/13/open-source-python-cli-youtube-video-downloader/
-categories:
+tags:
   - Uncategorised
 
 ---

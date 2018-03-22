@@ -6,7 +6,7 @@ date: 2012-01-22T14:28:27+00:00
 url: /mega-drive/toejam-earl/
 publicize_results:
   - 'a:2:{s:7:"twitter";a:1:{i:29364284;a:2:{s:7:"user_id";s:10:"hotelsdown";s:7:"post_id";s:18:"161092888636297217";}}s:2:"fb";a:1:{i:298827866826066;a:2:{s:7:"user_id";s:15:"298827866826066";s:7:"post_id";s:15:"316518168390369";}}}'
-categories:
+tags:
   - Mega Drive
 
 ---

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-16T15:24:12+00:00
 url: /random-updates/lessons-from-game-watch/
-categories:
+tags:
   - Random Updates
 
 ---

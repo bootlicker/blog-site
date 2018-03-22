@@ -5,7 +5,7 @@ type: post
 date: 2017-01-30T21:34:09+00:00
 url: /2017/01/30/simple-minded-bullshit-how-texts-have-intrinsic-meaning/
 featured_image: /wp-content/uploads/2017/01/Hegel_portrait_by_Schlesinger_1831.jpg
-categories:
+tags:
   - Uncategorised
 tags:
   - anti-essentialism

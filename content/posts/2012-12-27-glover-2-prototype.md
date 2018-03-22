@@ -6,7 +6,7 @@ date: 2012-12-27T10:32:10+00:00
 url: /n64/glover-2-prototype/
 publicize_twitter_user:
   - hotelsdown
-categories:
+tags:
   - N64
 
 ---

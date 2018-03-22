@@ -5,7 +5,7 @@ type: post
 date: 2016-03-27T07:01:19+00:00
 url: /uncategorized/determinate-conceptions-of-the-good/
 featured_image: /wp-content/uploads/2016/03/morality.jpg
-categories:
+tags:
   - Uncategorized
 tags:
   - absolutism

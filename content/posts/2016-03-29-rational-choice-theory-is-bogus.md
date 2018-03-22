@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2016-03-29T03:38:47+00:00
 url: /uncategorized/rational-choice-theory-is-bogus/
-categories:
+tags:
   - Uncategorized
 
 ---

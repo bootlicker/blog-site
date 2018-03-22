@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-09-10T13:39:42+00:00
 url: /2017/09/10/another-video-game-idea/
-categories:
+tags:
   - Uncategorised
 
 ---

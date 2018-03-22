@@ -11,7 +11,7 @@ publicize_twitter_user:
   - hotelsdown
 publicize_twitter_url:
   - http://t.co/46PiIywgSP
-categories:
+tags:
   - Game Theory
   - Random Updates
 tags:

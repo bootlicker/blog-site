@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-27T02:26:05+00:00
 url: /2018/02/27/turn-off-your-browsers-javascript/
-categories:
+tags:
   - Uncategorised
 
 ---

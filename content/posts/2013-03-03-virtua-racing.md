@@ -6,7 +6,7 @@ date: 2013-03-03T03:48:21+00:00
 url: /mega-drive/virtua-racing/
 original_post_id:
   - 616
-categories:
+tags:
   - Mega Drive
 
 ---

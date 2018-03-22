@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2016-03-27T08:33:43+00:00
 url: /uncategorized/selection-for-public-office-by-lot/
-categories:
+tags:
   - Uncategorized
 tags:
   - content

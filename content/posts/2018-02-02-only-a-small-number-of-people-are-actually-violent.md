@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-02T05:19:47+00:00
 url: /2018/02/02/only-a-small-number-of-people-are-actually-violent/
-categories:
+tags:
   - Uncategorised
 
 ---

@@ -6,7 +6,7 @@ date: 2013-01-07T15:01:59+00:00
 url: /pc/multithreading-and-singlethreading/
 original_post_id:
   - 308
-categories:
+tags:
   - PC
 
 ---

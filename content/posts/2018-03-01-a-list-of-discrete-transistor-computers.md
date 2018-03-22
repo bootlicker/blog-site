@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-03-01T05:06:52+00:00
 url: /2018/03/01/a-list-of-discrete-transistor-computers/
-categories:
+tags:
   - Uncategorised
 tags:
   - 8 bit CPU

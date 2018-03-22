@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-09-13T01:15:00+00:00
 url: /ps1/ffvii-remade-in-little-big-planet-2/
-categories:
+tags:
   - PS1
 
 ---

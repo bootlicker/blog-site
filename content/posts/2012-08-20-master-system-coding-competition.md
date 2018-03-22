@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-20T15:46:28+00:00
 url: /master-system/master-system-coding-competition/
-categories:
+tags:
   - Master System
 
 ---

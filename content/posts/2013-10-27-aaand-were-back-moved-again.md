@@ -10,7 +10,7 @@ publicize_twitter_user:
   - hotelsdown
 publicize_twitter_url:
   - http://t.co/qWeAJt6ALP
-categories:
+tags:
   - Random Updates
 
 ---

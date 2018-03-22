@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-27T23:04:24+00:00
 url: /2018/02/27/chatswood-espresso-review-1-locomotion-coffee/
-categories:
+tags:
   - Chatswood Espresso
 tags:
   - chatswood

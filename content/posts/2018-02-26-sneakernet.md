@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-26T11:23:40+00:00
 url: /2018/02/26/sneakernet/
-categories:
+tags:
   - Uncategorised
 
 ---

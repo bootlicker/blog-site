@@ -5,7 +5,7 @@ type: post
 date: 2017-03-17T00:28:02+00:00
 url: /2017/03/17/proposal-working-class-platform/
 featured_image: /wp-content/uploads/2017/03/Crowd_at_JJ_Hill_-_Philando_Castile_27547111053-e1489710398857.jpg
-categories:
+tags:
   - Uncategorised
 tags:
   - charter

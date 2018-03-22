@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-09-27T15:03:31+00:00
 url: /n64/beta-footage-of-jet-force-gemini-and-perfect-dark/
-categories:
+tags:
   - N64
 
 ---

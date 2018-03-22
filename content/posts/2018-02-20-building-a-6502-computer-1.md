@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-20T22:44:03+00:00
 url: /2018/02/20/building-a-6502-computer-1/
-categories:
+tags:
   - Uncategorised
 
 ---

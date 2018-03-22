@@ -6,7 +6,7 @@ date: 2013-01-09T13:44:15+00:00
 url: /mega-drive/retro-sanctuary/
 original_post_id:
   - 314
-categories:
+tags:
   - Mega Drive
 
 ---

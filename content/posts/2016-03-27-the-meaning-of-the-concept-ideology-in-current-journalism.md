@@ -5,7 +5,7 @@ type: post
 date: 2016-03-27T07:16:26+00:00
 url: /uncategorized/the-meaning-of-the-concept-ideology-in-current-journalism/
 featured_image: /wp-content/uploads/2016/03/ideology.jpg
-categories:
+tags:
   - Uncategorized
 tags:
   - base

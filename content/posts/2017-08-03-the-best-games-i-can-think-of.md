@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-08-03T00:18:41+00:00
 url: /2017/08/03/the-best-games-i-can-think-of/
-categories:
+tags:
   - Uncategorised
 tags:
   - atari

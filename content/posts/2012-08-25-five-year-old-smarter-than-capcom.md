@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-25T03:04:56+00:00
 url: /random-updates/five-year-old-smarter-than-capcom/
-categories:
+tags:
   - Random Updates
 
 ---

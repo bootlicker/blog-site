@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-06-24T16:57:17+00:00
 url: /random-updates/new-game-hype/
-categories:
+tags:
   - Random Updates
 
 ---

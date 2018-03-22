@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-21T05:04:44+00:00
 url: /2018/02/21/slaughter-house-five/
-categories:
+tags:
   - Uncategorised
 
 ---

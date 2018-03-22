@@ -5,7 +5,7 @@ type: post
 date: 2017-03-25T08:57:57+00:00
 url: /2017/03/25/liberalisms-orientalist-fantasies-about-islam/
 featured_image: /wp-content/uploads/2017/03/Akhoond_09.jpg
-categories:
+tags:
   - Uncategorised
 tags:
   - burqa

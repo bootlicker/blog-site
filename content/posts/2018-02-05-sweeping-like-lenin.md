@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-05T04:59:05+00:00
 url: /2018/02/05/sweeping-like-lenin/
-categories:
+tags:
   - Uncategorised
 
 ---

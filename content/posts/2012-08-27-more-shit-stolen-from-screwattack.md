@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-27T05:20:54+00:00
 url: /random-updates/more-shit-stolen-from-screwattack/
-categories:
+tags:
   - Random Updates
 
 ---

@@ -12,7 +12,7 @@ al2fb_facebook_link_picture:
   - featured=http://jumpnshoot9000.com/wp-content/uploads/2013/02/38_sony_computer_entertainment-prev-150x150.png
 original_post_id:
   - 497
-categories:
+tags:
   - PS4
 tags:
   - 16-bit

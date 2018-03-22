@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-28T05:23:14+00:00
 url: /2018/02/28/immigantz/
-categories:
+tags:
   - Uncategorised
 
 ---

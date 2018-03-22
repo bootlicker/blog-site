@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-09T12:06:48+00:00
 url: /2018/02/09/troubles-with-spotify/
-categories:
+tags:
   - Uncategorised
 
 ---

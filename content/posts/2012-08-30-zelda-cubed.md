@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2012-08-30T01:00:00+00:00
 url: /random-updates/zelda-cubed/
-categories:
+tags:
   - Random Updates
 
 ---

@@ -11,7 +11,7 @@ publicize_twitter_user:
   - hotelsdown
 publicize_twitter_url:
   - http://t.co/3xyqqoQFFz
-categories:
+tags:
   - Game Theory
 tags:
   - 'battlefield: bad company'

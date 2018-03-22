@@ -11,7 +11,7 @@ publicize_facebook_url:
   - https://facebook.com/10152333594281078
 publicize_twitter_url:
   - http://t.co/8orVAP9oAC
-categories:
+tags:
   - Random Updates
 tags:
   - binary logic

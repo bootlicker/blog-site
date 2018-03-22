@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-23T04:04:29+00:00
 url: /2018/02/23/barnaby-joyce/
-categories:
+tags:
   - Uncategorised
 
 ---

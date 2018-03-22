@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2017-12-07T01:39:12+00:00
 url: /2017/12/07/my-comrades-opinions-on-battlefront-2-2017/
-categories:
+tags:
   - Uncategorised
 
 ---

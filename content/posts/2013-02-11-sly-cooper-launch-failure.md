@@ -12,7 +12,7 @@ al2fb_facebook_link_picture:
   - featured=http://jumpnshoot9000.com/wp-content/uploads/2013/02/sly_cooper_ipod_wallpaper_by_keen_eddie-d3ad86q-150x150.jpg
 original_post_id:
   - 439
-categories:
+tags:
   - PS3
 
 ---

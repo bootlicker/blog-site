@@ -6,7 +6,7 @@ date: 2013-03-04T10:58:28+00:00
 url: /dreamcast/cel-shaded-graphics-hardware-and-art/
 original_post_id:
   - 447
-categories:
+tags:
   - Dreamcast
   - Random Updates
 tags:

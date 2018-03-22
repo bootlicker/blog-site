@@ -4,7 +4,7 @@ author: bootlicker
 type: post
 date: 2018-02-15T01:45:31+00:00
 url: /2018/02/15/how-to-avoid/
-categories:
+tags:
   - Uncategorised
 
 ---
