@@ -1,7 +1,6 @@
 +++
 date = "2010-11-23T06:13:00+00:00"
 draft = false
-tags = 
 title = "Two One Three"
 +++
 <p><em>Continued:</em></p>&#13;

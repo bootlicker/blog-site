@@ -1,7 +1,6 @@
 +++
 date = "2010-08-05T03:08:24+00:00"
 draft = false
-tags = 
 title = "Leaving Your"
 +++
 <blockquote>&#13;

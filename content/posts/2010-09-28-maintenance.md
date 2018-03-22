@@ -1,7 +1,6 @@
 +++
 date = "2010-09-28T16:05:00+00:00"
 draft = false
-tags = 
 title = "Maintenance"
 +++
 <p>patterns of arrhythmia</p>&#13;

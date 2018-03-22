@@ -1,7 +1,6 @@
 +++
 date = "2010-06-09T15:13:01+00:00"
 draft = false
-tags = 
 title = "The Soon Board"
 +++
 <p>Polyurethane lies</p>&#13;

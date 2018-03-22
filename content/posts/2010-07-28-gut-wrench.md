@@ -1,7 +1,6 @@
 +++
 date = "2010-07-28T15:47:34+00:00"
 draft = false
-tags = 
 title = "Gut Wrench"
 +++
 <p>closing doors and or turning</p>&#13;

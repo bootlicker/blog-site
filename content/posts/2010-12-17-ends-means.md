@@ -1,7 +1,6 @@
 +++
 date = "2010-12-17T13:59:15+00:00"
 draft = false
-tags = 
 title = "Ends Means"
 +++
 <p>o non!</p>&#13;

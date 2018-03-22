@@ -1,7 +1,6 @@
 +++
 date = "2010-09-10T06:25:00+00:00"
 draft = false
-tags = 
 title = "With The Lightning"
 +++
 <p>electric deep sea charges</p>&#13;

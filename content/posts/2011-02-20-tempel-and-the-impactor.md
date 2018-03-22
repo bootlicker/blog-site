@@ -1,7 +1,6 @@
 +++
 date = "2011-02-20T14:42:00+00:00"
 draft = false
-tags = 
 title = "Tempel And The Impactor"
 +++
 <p>Ness came around at about nine, and we then drove to the Burswood Casino. After she parked the Barina as close as she could to the river, we got out and walked over to the car-park on the other side of the complex. </p>&#13;

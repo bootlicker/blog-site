@@ -1,7 +1,6 @@
 +++
 date = "2010-05-28T14:58:50+00:00"
 draft = false
-tags = 
 title = "Two Tonight: For What I Have Been Given!"
 +++
 <p>Thank you very much for your attention</p>&#13;

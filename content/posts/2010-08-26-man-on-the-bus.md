@@ -1,7 +1,6 @@
 +++
 date = "2010-08-26T15:11:49+00:00"
 draft = false
-tags = 
 title = "Man On The Bus"
 +++
 <p>I saw your Rosary</p>&#13;

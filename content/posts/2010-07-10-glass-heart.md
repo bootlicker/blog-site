@@ -1,7 +1,6 @@
 +++
 date = "2010-07-10T14:55:24+00:00"
 draft = false
-tags = 
 title = "Glass Heart"
 +++
 <p>Hearts on chemical fire</p>&#13;

@@ -1,7 +1,6 @@
 +++
 date = "2010-10-07T07:36:00+00:00"
 draft = false
-tags = 
 title = "Nine Eight Old"
 +++
 <p>there being never the time</p>&#13;

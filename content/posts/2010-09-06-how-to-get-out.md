@@ -1,7 +1,6 @@
 +++
 date = "2010-09-06T13:12:34+00:00"
 draft = false
-tags = 
 title = "How To Get Out"
 +++
 <p>that green-tinged grey trail</p>&#13;

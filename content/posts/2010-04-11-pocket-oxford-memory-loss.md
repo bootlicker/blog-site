@@ -1,7 +1,6 @@
 +++
 date = "2010-04-11T04:42:00+00:00"
 draft = false
-tags = 
 title = "Pocket Oxford Memory Loss"
 +++
 <p>Some of us move in circles</p>&#13;

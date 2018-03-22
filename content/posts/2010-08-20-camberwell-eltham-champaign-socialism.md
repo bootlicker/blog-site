@@ -1,7 +1,6 @@
 +++
 date = "2010-08-20T14:15:37+00:00"
 draft = false
-tags = 
 title = "Camberwell: Eltham: Champaign Socialism"
 +++
 <p>stop looking</p>&#13;

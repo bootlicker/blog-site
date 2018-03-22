@@ -1,7 +1,6 @@
 +++
 date = "2010-10-01T13:56:00+00:00"
 draft = false
-tags = 
 title = "Golden Cat"
 +++
 <blockquote>&#13;

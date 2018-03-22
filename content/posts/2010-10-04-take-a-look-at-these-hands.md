@@ -1,7 +1,6 @@
 +++
 date = "2010-10-04T15:06:00+00:00"
 draft = false
-tags = 
 title = "Take A Look At These Hands"
 +++
 <blockquote>&#13;

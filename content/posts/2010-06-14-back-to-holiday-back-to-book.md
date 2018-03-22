@@ -1,7 +1,6 @@
 +++
 date = "2010-06-14T13:57:48+00:00"
 draft = false
-tags = 
 title = "Back to Holiday, Back to Book"
 +++
 <p>The inhabitants had fashioned earthen walls where there were none, pulling up wood and thatching to replace long-destroyed roofs, and at night they would all share dinner together either out in the open, or together in a long room that resembled a beer-hall.</p>&#13;

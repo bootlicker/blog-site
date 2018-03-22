@@ -1,7 +1,6 @@
 +++
 date = "2010-10-23T12:11:00+00:00"
 draft = false
-tags = 
 title = "Rete Mirabile"
 +++
 <p>The gun shook in Sherpie's hand, and the Minister still cradled the switch in his hands. The Minister looked at the window and then back and Sherpie, and then moved to throw the switch.</p>&#13;

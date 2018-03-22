@@ -1,7 +1,6 @@
 +++
 date = "2010-08-27T07:24:47+00:00"
 draft = false
-tags = 
 title = "Handbasket"
 +++
 <p><em>Ring. Ring</em>.</p>&#13;

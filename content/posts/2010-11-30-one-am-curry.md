@@ -1,7 +1,6 @@
 +++
 date = "2010-11-30T17:03:00+00:00"
 draft = false
-tags = 
 title = "One AM Curry"
 +++
 <p>"I dunno man," Sven changed the way he sat on the kurb. "I just think everything that I wanted to happen to me has already happened."</p>&#13;

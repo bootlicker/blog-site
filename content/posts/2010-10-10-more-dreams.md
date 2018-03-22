@@ -1,7 +1,6 @@
 +++
 date = "2010-10-10T07:59:33+00:00"
 draft = false
-tags = 
 title = "More Dreams"
 +++
 <p>Sven was sat down on the old couch - I'm sure its since been replaced - and Red's old uncle began to speak.</p>&#13;

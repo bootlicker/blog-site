@@ -1,7 +1,6 @@
 +++
 date = "2010-07-29T08:29:00+00:00"
 draft = false
-tags = 
 title = "I'll Work This In"
 +++
 <p>A small <em>crack</em> echoed around the plains, and Narsh and her knife slumped off the Minister - he too falling, on top of her.</p>&#13;

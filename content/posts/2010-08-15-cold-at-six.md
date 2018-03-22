@@ -1,7 +1,6 @@
 +++
 date = "2010-08-15T13:35:53+00:00"
 draft = false
-tags = 
 title = "Cold at Six"
 +++
 <p>familiar faces around the table</p>&#13;

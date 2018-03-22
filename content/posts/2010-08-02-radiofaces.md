@@ -1,7 +1,6 @@
 +++
 date = "2010-08-02T06:13:00+00:00"
 draft = false
-tags = 
 title = "Radiofaces"
 +++
 <p>there's-a way out</p>&#13;

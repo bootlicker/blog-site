@@ -1,7 +1,6 @@
 +++
 date = "2010-08-10T09:26:31+00:00"
 draft = false
-tags = 
 title = "White Enamel Bracket"
 +++
 <p>I don't remember</p>&#13;

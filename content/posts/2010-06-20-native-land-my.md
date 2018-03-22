@@ -1,7 +1,6 @@
 +++
 date = "2010-06-20T03:11:24+00:00"
 draft = false
-tags = 
 title = "Native Land, My"
 +++
 <blockquote>&#13;

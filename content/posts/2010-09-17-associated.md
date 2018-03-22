@@ -1,7 +1,6 @@
 +++
 date = "2010-09-17T07:43:11+00:00"
 draft = false
-tags = 
 title = "Associated"
 +++
 <blockquote>&#13;

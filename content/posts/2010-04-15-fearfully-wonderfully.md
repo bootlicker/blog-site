@@ -1,7 +1,6 @@
 +++
 date = "2010-04-15T15:02:11+00:00"
 draft = false
-tags = 
 title = "Fearfully, Wonderfully"
 +++
 <p>Big-little small-little;</p>&#13;

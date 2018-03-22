@@ -1,7 +1,6 @@
 +++
 date = "2010-04-30T13:33:56+00:00"
 draft = false
-tags = 
 title = "Early Symptoms Include Malaise"
 +++
 <blockquote>&#13;

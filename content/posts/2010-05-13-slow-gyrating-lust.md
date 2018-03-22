@@ -1,7 +1,6 @@
 +++
 date = "2010-05-13T14:56:56+00:00"
 draft = false
-tags = 
 title = "Slow, Gyrating Lust"
 +++
 <p>In the depths of my sleep, the little amount of sleep that I get, I'm visited by a blinding yellow-white light which consumes all neuroses.</p>&#13;

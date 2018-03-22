@@ -1,7 +1,6 @@
 +++
 date = "2010-08-21T13:52:34+00:00"
 draft = false
-tags = 
 title = "I Am A Golfer"
 +++
 <p>back</p>&#13;

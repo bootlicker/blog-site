@@ -1,7 +1,6 @@
 +++
 date = "2010-05-28T13:40:40+00:00"
 draft = false
-tags = 
 title = "cold in the library"
 +++
 <p>taken all to the damp pavement</p>&#13;

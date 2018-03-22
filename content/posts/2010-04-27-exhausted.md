@@ -1,7 +1,6 @@
 +++
 date = "2010-04-27T00:32:00+00:00"
 draft = false
-tags = 
 title = "Exhausted"
 +++
 <p><span>&#13;

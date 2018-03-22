@@ -1,7 +1,6 @@
 +++
 date = "2010-07-10T14:49:42+00:00"
 draft = false
-tags = 
 title = "It Was A Gas"
 +++
 <p>"What time is it?"</p>&#13;

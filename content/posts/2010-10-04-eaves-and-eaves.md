@@ -1,7 +1,6 @@
 +++
 date = "2010-10-04T14:44:00+00:00"
 draft = false
-tags = 
 title = "Eaves and Eaves"
 +++
 <p class="MsoNormal">Sanda packed supper into a big metal flask that was loaded into the barrow, Jim changing the horse. Town was a fair way from the property, but it could be seen tonight, as a big fire had been lit on its limits.</p>&#13;

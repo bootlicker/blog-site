@@ -1,7 +1,6 @@
 +++
 date = "2010-05-12T12:30:33+00:00"
 draft = false
-tags = 
 title = "Threatened With Violence"
 +++
 <p>hello hooknose</p>&#13;

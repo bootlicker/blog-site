@@ -1,7 +1,6 @@
 +++
 date = "2010-10-23T11:30:00+00:00"
 draft = false
-tags = 
 title = "Strange Love"
 +++
 <p>I'm forever changed from having watched <em>Doctor Strangelove</em>. I've actually seen it now. It really has everything, it almost sums up who we are without leaving three locations. I think Aristotle was right when he said dramas should have a unity of setting - or something along those lines.</p>&#13;

@@ -1,7 +1,6 @@
 +++
 date = "2010-09-19T08:16:15+00:00"
 draft = false
-tags = 
 title = "The Dredge"
 +++
 <p>Will 'em</p>&#13;
