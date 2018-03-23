@@ -8,9 +8,9 @@ tags:
   - Uncategorised
 
 ---
-[<img width="1146" height="720" alt="" src="/wordpress-uploads/2017/01/wp-1485138702306.jpg" title="" class="aligncenter size-full wp-image-44" />][1]
+[<img width="573" height="360" alt="" src="/wordpress-uploads/2017/01/wp-1485138702306.jpg" title="" class="aligncenter size-full wp-image-44" />][1]
 
-[<img width="1198" height="960" alt="" src="/wordpress-uploads/2017/01/wp-1485138714342.jpg" title="" class="aligncenter size-full wp-image-45" />][2]
+[<img width="599" height="480" alt="" src="/wordpress-uploads/2017/01/wp-1485138714342.jpg" title="" class="aligncenter size-full wp-image-45" />][2]
 
  [1]: /wordpress-uploads/2017/01/wp-1485138702306.jpg
  [2]: /wordpress-uploads/2017/01/wp-1485138714342.jpg
