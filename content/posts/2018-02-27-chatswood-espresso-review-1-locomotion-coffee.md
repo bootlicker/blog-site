@@ -15,7 +15,7 @@ tags:
   - review
 
 ---
-<img class="wp-image-362 size-medium aligncenter" src="http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/P_20180228_094957_vHDR_Auto.jpg" width="1473" height="1473" srcset="http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/P_20180228_094957_vHDR_Auto.jpg 1473w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/P_20180228_094957_vHDR_Auto-150x150.jpg 150w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/P_20180228_094957_vHDR_Auto-300x300.jpg 300w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/P_20180228_094957_vHDR_Auto-768x768.jpg 768w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/P_20180228_094957_vHDR_Auto-1024x1024.jpg 1024w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/P_20180228_094957_vHDR_Auto-620x620.jpg 620w" sizes="(max-width: 1473px) 100vw, 1473px" />
+<img class="wp-image-362 size-medium aligncenter" src="/wordpress-uploads/2018/02/P_20180228_094957_vHDR_Auto.jpg" width="1473" height="1473" />
 
 Blend: Campos
 

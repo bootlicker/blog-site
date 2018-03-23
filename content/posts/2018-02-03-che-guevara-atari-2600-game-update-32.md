@@ -8,7 +8,7 @@ tags:
   - Uncategorised
 
 ---
-<img class="aligncenter size-medium wp-image-256" src="http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/guerrilla32-300x221.png" alt="" width="300" height="221" srcset="http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/guerrilla32-300x221.png 300w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/guerrilla32-768x565.png 768w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/guerrilla32-620x456.png 620w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/guerrilla32.png 864w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="aligncenter size-medium wp-image-256" src="/wordpress-uploads/2018/02/guerrilla32-300x221.png" alt="" width="300" height="221" />
 
 &nbsp;
 
@@ -18,5 +18,5 @@ I have completed a stage in development of my Atari 2600 game! Please find attac
 
 [ASM SOURCE CODE][2]
 
- [1]: http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/Guerrilla32_bin_FINAL.zip
- [2]: http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/coloured_guerrilla032.asm_.zip
+ [1]: /wordpress-uploads/2018/02/Guerrilla32_bin_FINAL.zip
+ [2]: /wordpress-uploads/2018/02/coloured_guerrilla032.asm_.zip

@@ -1,46 +1,12 @@
-baseurl = "https://bootlicker.party"
-languageCode = "en"
+baseURL = "https://bootlicker.party/"
+languageCode = "en-au"
 title = "BOOTLICKER"
-theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
-disqusShortname = "shortname"
-googleAnalytics = ""
-# Number of posts per page
-Paginate = 5
-enableRobotsTXT = true
+theme = "elephants"
 
-
-[params.assets]
-customCSS = ["css/custom.css"]
-
-[params.info]
-adsense = "" # Adsense ID (ID only, without ca-pub-)
-enableSocial = false # Adds OpenGraph and Twitter cards
-homeTitle = "BOOTLICKER" # Title for home page
-poweredby = true # Adds powered by Hugo and Kiss below Copyright section
-related = true # Includes related articles
-
-[params.opengraph.facebook]
-admins = [] # array of Facebook IDs
-appID = ""
-pageID = ""
-
-[params.opengraph.twitter]
-page = "" # Twitter Page username. If not set, params.social.twitter will be used.
-
-[params.social]
-
-twitter = "dirtycommo"
-github = "bootlicker"
-email = "buhlairr@gmail.com"
-linkedin = ""
-facebook = ""
-instagram = ""
-codepen = ""
-
-[taxonomies]
-tag ="tags"
-
-[blackfriday]
-hrefTargetBlank = true
+[params]
+    sitename = "BOOTLICKER"
+    
+[permalinks]
+  post = "/:year/:month/:day/:title/"
+  
 

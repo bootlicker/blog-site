@@ -8,4 +8,4 @@ tags:
   - Uncategorised
 
 ---
-<img src="http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/IMG_20180223_150341.jpg" class="alignnone wp-image-348 size-full" width="554" height="312" srcset="http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/IMG_20180223_150341.jpg 554w, http://bootlicker.doubledashgames.com/wp-content/uploads/2018/02/IMG_20180223_150341-300x169.jpg 300w" sizes="(max-width: 554px) 100vw, 554px" />
+<img src="/wordpress-uploads/2018/02/IMG_20180223_150341.jpg" class="alignnone wp-image-348 size-full" width="554" height="312"  />
