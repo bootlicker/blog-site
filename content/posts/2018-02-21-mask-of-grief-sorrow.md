@@ -12,4 +12,4 @@ Socialism is too beautiful to be captured in the language of reaction. It will e
 
 This came to me after I saw this image. Gulags are bad, but this statue is terrible.
 
-<img src="/wordpress-uploads/2018/02/IMG_8o8x8o.jpg" class="alignnone size-full wp-image-345" width="1080" height="814" />
+<img src="/wordpress-uploads/2018/02/IMG_8o8x8o.jpg" class="alignnone size-full wp-image-345" width="540" height="407" />
