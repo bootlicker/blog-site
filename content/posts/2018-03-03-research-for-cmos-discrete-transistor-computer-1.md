@@ -40,28 +40,28 @@ If the graph of the Drain current looks flat in the region of 5V, it is no longe
 
 Here is a list of the cheapest and most suitable logic level MOSFETS I can find:
 
-<img class="alignnone wp-image-387 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180303-002532.jpg" width="1044" height="1044"  />
+<img class="alignnone wp-image-387 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180303-002532.jpg" width="522" height="522"  />
 
 At V(gs) = 5V, this MOSFET is just at the end of the linear region. _May_ be suitable.
 
-<img class="alignnone wp-image-383 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180303-000413.jpg" width="1078" height="1078"  />
+<img class="alignnone wp-image-383 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180303-000413.jpg" width="539" height="539"  />
 
 5V V(gs) will see this transistor conducting more than 100A &#8211; it may even be harmful to the transistor &#8211; check the Max V(gs).
 
 Just checked the datasheet. The max V(gs) ia 15V. This transistor is probably very suitable.
 
-<img class="alignnone wp-image-385 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180302-181535.jpg" width="1080" height="1080" />
+<img class="alignnone wp-image-385 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180302-181535.jpg" width="540" height="540" />
 
 This is actually the HUFA76429D3. Same as above. The max V(gs) is 16V. This may be a very suitable component.
 
-<img class="wp-image-384 alignnone size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180302-173617.jpg" width="1080" height="1079" />
+<img class="wp-image-384 alignnone size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180302-173617.jpg" width="540" height="540" />
 
 This transistor will have a drain current of more than 10A at V(gs) 5V, even though it won&#8217;t be fully saturated. This component may be suitable.
 
-<img class="alignnone wp-image-388 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180302-174523.jpg" width="1080" height="1080" />
+<img class="alignnone wp-image-388 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180302-174523.jpg" width="540" height="540" />
 
 The 640N still has 5V V(gs) in the end of the linear region, but it will still be conducting more than an ampere at this stage, so it _may_ be suitable.
 
-<img class="alignnone wp-image-390 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180303-003725-1.jpg" width="1080" height="1079"  />
+<img class="alignnone wp-image-390 size-medium" src="/wordpress-uploads/2018/03/Screenshot_20180303-003725-1.jpg" width="540" height="540"  />
 
 5V is well and truly in the satutation region of this MOSFET, the 3710. The Drain current will not be increasing much more with any more Gate voltage. Bear in mind the logarithmic scale.
