@@ -38,7 +38,7 @@ All of the information I have explained here comes from the DEC 1967 Digital Log
 
 Anyway here is the standard logic pulse of the PDP-8.
 
-![Standard Logic Pulse](/PDP8_images/001_RSeries_Logic_Signal.png =525x286)
+![Standard Logic Pulse](/PDP8_images/001_RSeries_Logic_Signal.png)
 
 The PDP-8 uses DEC's proprietary R-series logic. As the following diagrams explain, R-series logic takes a -3V signal to be a digital ONE, and a 0V electrical signal to be a digital 0. This is very whacky, and may seem strange, but there's nothing theoretically incorrect about using negative voltages in one's logic system. Virtually any voltage differential can map onto whatever number system you want your computer to use. By the time we get to Diode-Capacitor-Diode gates, the reasoning for -3V = 1 will become apparent.
 
@@ -142,6 +142,6 @@ When you look at the R-series flip-chip modules, you're probably going to end up
 
 That said, if this does present itself to some people as an attractive electronic logic system, we may just reconstruct all the basic logic elements using easily accessible components.
 
-Webpage with original DEC substitution recommendations HERE: ([http://so-much-stuff.com/pdp8/repair/subst.php"](http://so-much-stuff.com/pdp8/repair/subst.php)
+Webpage with original DEC substitution recommendations HERE: ([http://so-much-stuff.com/pdp8/repair/subst.php](http://so-much-stuff.com/pdp8/repair/subst.php))
 
 <table><tbody><tr><td>Original DEC Component<br></td><td>DEC-Specified Component Substitution<br></td><td>My Suggested Substitution<br></td></tr><tr><td>D-662 Diode (High Forward Voltage Drop)<br></td><td>1N645<br></td><td>1N4004</td></tr><tr><td>D-664 Diode (Low Forward Voltage Drop)<br></td><td>1N3606</td><td>SB140 Schottky Diode<br></td></tr><tr><td>DEC-3639 PNP Transistor<br></td><td>2N3639</td><td>2N4403</td></tr><tr><td>DEC-3009 NPN Transistor<br></td><td>2N3009</td><td>BC559/BC549</td></tr><tr><td>DC-2894 PNP Transistor<br></td><td>NONE (!!)<br></td><td>2N4403 (?)<br></td></tr></tbody></table>
