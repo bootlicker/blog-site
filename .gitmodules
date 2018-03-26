@@ -4,6 +4,3 @@
 [submodule "themes/elephants"]
 	path = themes/elephants
 	url = https://gitlab.com/meibenny/elephants.git
-[submodule "elephants"]
-	path = elephants
-	url = https://gitlab.com/meibenny/elephants.git
