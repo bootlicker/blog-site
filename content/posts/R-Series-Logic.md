@@ -1,5 +1,5 @@
 ---
-title: "R Series Logic"
+title: "The Electronics of DEC's R-Series Logic"
 date: 2018-03-26T19:54:41+11:00
 draft: false
 ---
