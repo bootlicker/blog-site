@@ -5,7 +5,7 @@ theme = "elephants"
 
 [params]
     sitename = "BOOTLICKER"
-    DateForm = "2006 Jan 2"
+    DateForm = "2006 01 2"
     
 [permalinks]
   post = "/:year/:month/:day/:title/"
