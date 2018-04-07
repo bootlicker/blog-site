@@ -14,8 +14,8 @@ I have a LOT of stuff on the boil. This is a small written note to myself to the
 6. Finish my 2018 Hackaday Prize Entry
 7. Keep up my efforts at calling people for Socialist Alliance events
 8. Fix this blog's font issue 
-.. - I don't like the font; and
-.. - It downloads the font from Google, which is a security issue
+..- I don't like the font; and
+..- It downloads the font from Google, which is a security issue
 9. Adapt the article I am writing for _Links International Journal_
 10. Fix the wow and flutter issues with both of my tape decks
 11. Maybe clean the house once in a while
