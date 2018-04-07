@@ -1,0 +1,56 @@
+---
+title: "Rationale for Portable 8 Bit Computer"
+date: 2018-04-07T17:12:25+10:00
+draft: false
+---
+
+Technology moves fast in today’s world, but this is not necessarily a good thing. The reliance we have on the World Wide Web and Intel CPUs is advertised by the biggest corporate marketing departments as nothing but a good thing. The fact that the biggest parts of our computer hardware, computer software, and internet functionality is provided by monopolies is glossed over, if it is mentioned at all.
+
+Here I want to address the 2018 Hackaday Prize submission criteria of “Building Hope”, and why my competition entry does build hope. The category of the competition I am entering is Open Hardware, and I want to show how my open hardware design builds hope.
+
+My open hardware entry is an internet-enabled 8-bit portable computer. I am aiming for my design to be as low cost as possible, and I want it to avoid many of the devastating problems I can see with most contemporary internet-enabled portable devices. The two main problems I want my 8-bit computer to address are (a) the devastating privacy and security problems of HTTP (the World Wide Web) as the main platform for internet connectivity; and (b) the devastating security problems of modern Intel CPUs, which can be found in the vast majority of internet-connected consumer devices today.
+
+# HTTP: Bad for Privacy, Because of Bad Politics
+
+The internet is now loaded with non-free javascript. A great many websites secretly and silently load lots of programs onto your computer, and this is an invasion of privacy. In some cases the programs non-free javascript load onto your computer are malware.
+
+The same sort of principle behind non-free javascript invading your privacy and compromising your security applies to the way Graphical User Interfaces on modern devices work. The way users interface with their mobile phones and tablets is anything but transparent. Phones and computers are now supposed to be nothing but a collection of “apps”. Today’s mobile phones are easy to use, but it is impossible to tell exactly what your device is actually doing with the data you are giving it. You can’t access logs, you can’t start and stop services and daemons yourself, and you can’t manage memory in the same way you can, say, from a Command Line Interface.
+
+Many modern devices are designed just to go on the web. We call low end lean terminals with operating systems based on Chrome “netbooks”. This is a terrible way to use computers, and a terrible way to use the internet. HTTP is an inefficient and insecure method of information distribution. The shift to using cloud computing in order to be productive and useful presents a scary prospect for information safety and privacy.
+
+In some contexts, the entire user interface of a user’s computer is HTTP, loaded with javascript. The web is frequently used exclusively for being productive, being social, or being entertained. The problems with computer Graphic User Interfaces carry directly over to web productivity, with the added security vulnerabilities of cookies and non-free javascript. The metadata fingerprints we are leaving behind while doing our work on web interfaces is like a barrel of radioactive waste, spewing out traces of radiation everywhere.
+
+[This article](https://www.w3.org/Protocols/HTTP-NG/http-prob.html) by Simon E Spero shows that HTTP is a slow and inefficient internet protocol. Most of the time, HTTP is waiting. The slow start to HTTP connections hurts performance, and slows down the Round Trip Time (RTT). HTTP is also a highly centralised protocol. This means that all HTTP data is stored in a centralised server, and all clients must negotiate with the central server 100% of the time in order to establish connections and distribute data.
+
+USENET is entirely different. NNTP is a much more horizontal method of information distribution. Servers synchronise messages and data with other servers, and this means that users can connect to their local server in order to access data. NNTP spreads its information horizontally and reduces the amount of centralised bandwidth needed in order to distribute the same information. Most of the time, information is just downloaded once – as opposed to HTTP, where information has to be downloaded over and over again from the same place.
+
+Consider [this article](https://queue.acm.org/detail.cfm?id=2716278) by Poul-Henning Kamp, a developer of the FreeBSD operating system. Kamp shows that HTTP development is frequently being lead by the biggest corporate interests in the global economy. Kamp shows that the IETF basically rubber-stamped Google’s SPDY protocol. HTTP is the primary platform for content delivery of some of the biggest industries in the world economy, and it is the primary platform by which Google, Facebook, Twitter, etc all gather metadata for the purpose of learning how best to manipulate people’s affective behaviour so they can turn a profit. Metadata, combined with psychometric tests, presents an incredibly effective method of manipulating people’s behaviour at the non-conscious level. All of this is built upon the foundations of behavioural economics, which is a pernicious theory which attempts to present itself as a science. Really, it is just a tool used by business in order to manipulate humans in order to increase profits.
+So really, the fact that much of our time on our computers is channelled through HTTP is the result of bad politics. Like Kamp says,
+
+History has shown overwhelmingly that if you want to change the world for the better, you should deliver good tools for making it better, not policies for making it better.
+
+As it presents itself, HTTP is a bad tool for being productive, or enjoying entertainment. The biggest companies in the world are using HTTP to make sure they remain the most powerful political entities in the world, and for this reason they ensure that it remains insecure.
+
+# Intel Processors: The Security Vulnerabilities of Spectre and Meltdown
+
+In the second part of this explanation, I will outline how my open hardware design builds hope by avoiding the security vulnerabilities of Intel CPUs.
+
+Intel CPUs for the last 20 years have been discovered to be vulnerable to three devastating hardware level security vulnerabilities. Two of these security vulnerabilities are called Spectre, and the other one is called Meltdown.
+
+Meltdown is called Meltdown because it “melts down” hardware security boundaries, and Spectre is called Spectre because it relies on the common feature in Intel CPUs called “speculative execution”. It is also a hardware vulnerability that will ‘haunt’ us for a long time. It is a hardware vulnerability which is not possible to patch or repair in software. It is built into the hardware of Intel CPUs.
+
+Spectre and Meltdown centre around two features of Intel CPUs called “speculative execution” and CPU cache. Speculative execution is when a processor attempts to predict its future processing tasks, and processes them before they are needed. This is done in order to speed up the processing performance of a CPU. These tasks are then frequently stored in the CPUs cache, a form of very fast memory which the CPU can preload information from RAM in order to speech up performance.
+
+So, say a CPU has a branch condition somewhere in its program, and it can either take path X or path Y, the processor will process both information paths in advance of taking the branch in order to speed up performance. This is one kind of activity speculative execution undertakes. Another kind of speculative execution is when a processor notices that its program instructs it to perform a common repetitive task. The processor will then perform this task ahead of time, again, in order to speed the CPU up.
+
+The problem with speculative execution is that it abrogates the information security mechanisms that are built into the hardware and software of Intel CPUs. Normally, processes and memory that the CPU executes and manages have permission checks and controls which hide information from other users and other programs. However speculative execution is able to access information from other parts of memory, and communicate with processes from other users whenever it pleases, and only when the actual speculatively executed information is finally used are its permissions and memory control authority actually checked. That means, if you know the exact addresses or location where speculatively executed information is stored in memory or in cache, you can get access to it, and do whatever you want with it.
+
+The chilling consequences of this hardware CPU security vulnerability are able to be illustrated by relating them to the previous topic of discussion above. An insecure HTTP connection can cause a Specture or Meltdown vulnerability to be loaded onto a computer with an Intel CPU. The paper that revealed the Spectre vulnerability showed in its proof-of-concept that javascript can be used to load Spectre onto an Intel computer and gain complete hardware control over it. [This webpage](https://react-etc.net/entry/exploiting-speculative-execution-meltdown-spectre-via-javascript) shows screenshots from the paper demonstrating how non-free javascript can load Spectre onto an Intel computer.
+
+My open hardware design aims to build hope by building a platform that is invulnerable to hardware security vulnerabilies like Spectre and Meltdown. It aims to do this by implementing a single-tasking 8-bit CPU, that does not have speculative execution. Any processor with no speculative execution would be appropriate for this purpose, but I wanted to pick a well-understood, low powered CPU to enhance physical hardware security.
+
+Using a MOS 6502 CPU in this design frustrates the avenues hackers have to manipulate the hardware of this portable device. 6502 CPUs cannot multi-task, which means if it were connected to USENET via an encrypted connection, that would be the only task it would be able to run. I imagine encrypted connections are possible with 6502 CPUs. Perhaps even something like SSH could be ported to the platform. If it were connected to a BBS over a secure connection, that would be the only program in memory. Someone would not be able to compromise the memory management of a 6502-based computer because every time the processor is commanded to undertake a new task, the old information in memory is completely erased and overwritten by the new work environment.
+
+In order to compromise the internet security of a 6502 platform, a hacker would have to have some sort of physical interface, whether direct or indirect, with its data connection in order to ‘snoop’ the information it was transmitting. It would have to be listening to the internet connection while the data was being transmitted. This is real cloak-and-dagger stuff.
+
+As far as I am aware, there is no operating system for a 6502-based system that remains in memory when other programs are running on the system—say word processors or telnet programs. In most cases, there is a full air-gap between the removable media upon which a 6502 operating system is stored, or the operating system is built into ROM, and cannot be altered at all.
