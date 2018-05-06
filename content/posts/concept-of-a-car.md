@@ -26,23 +26,23 @@ But capitalists found an ingenious way to avoid having to deal with the difficul
 
 But take a look at what happened to the global economy after the deregulation and expansion of the global finance industry: 
 
-![Australian Debt](concept-of-a-car/australia-debt.png) ![Global Debt to GDP](concept-of-a-car/global-debt-to-gdp.jpeg)
+![Australian Debt](/concept-of-a-car/australia-debt.png) ![Global Debt to GDP](/concept-of-a-car/global-debt-to-gdp.jpeg)
 
-The left graph illustrates the amount of credit given out in the Australian economy. As you can see, there is an incredible increase after the 1970s. The Y-axis details the ratio between credit and Australian Gross Domestic Product (GDP). That’s the value of all the commodities and services produced in the Australian economy. As you can see, the amount of credit now exceeds the entire Australian GDP. The credit exceeds 100%. This means more money has been lent out privately than the whole value of everything produced by the Australian economy.
+The top graph illustrates the amount of credit given out in the Australian economy. As you can see, there is an incredible increase after the 1970s. The Y-axis details the ratio between credit and Australian Gross Domestic Product (GDP). That’s the value of all the commodities and services produced in the Australian economy. As you can see, the amount of credit now exceeds the entire Australian GDP. The credit exceeds 100%. This means more money has been lent out privately than the whole value of everything produced by the Australian economy.
 
-The right graph illustrates the ratio as a percentage between the amount of global debt and global GDP. You can find this graph in a 2014 article in The Telegraph. The type of debt measured here is both public and private non-financial debt. This means the debt of both governments and private companies. As you can see, the global amount of non-financial debt is more than two times the entire value of everything produced in the global economy.
+The bottom graph illustrates the ratio as a percentage between the amount of global debt and global GDP. You can find this graph in a 2014 article in The Telegraph. The type of debt measured here is both public and private non-financial debt. This means the debt of both governments and private companies. As you can see, the global amount of non-financial debt is more than two times the entire value of everything produced in the global economy.
 
 These graphs show that in order to avoid having to engage in a struggle with workers over the way the means of production were used, capitalists resorted to borrowing lots and lots of money in order to keep the process of capital “accumulation” going. By doing this capitalists were able to gain the advantage in the world system. The world capitalist system entered a new phase called “neoliberalism”. Capitalists were able to use their newfound money to both wind back and smash the collective union power of workers. They also began to sell off the public state services that workers had managed to establish. These state services were an attempt by the reformist leaders of unions to soften the inequalities and injustices that capitalism had on workers.
 
 But neoliberalism is nonsense. All that happened after the deregulation of financial markets was that everyone in the economy took on massive amounts of debt in order to keep commodity production going. Eventually, in 2007-2008, the bubble burst. The following is a graph of the Dow Jones Industrial Average. It’s a special calculation of the value of all the top 30 company stocks on the Dow Jones stock exchange.
 
-![Dow Jones Index](concept-of-a-car/dow-jones.index.png)
+![Dow Jones Index](/concept-of-a-car/dow-jones-index.png)
 
 As you can see, the index lost half of its value in about two years. The huge bubble of debt-fuelled trading burst. There are more graphs. Try looking at the data on public and private debt over this period. Have a look at the growth rates of various national and regional GDPs. Also look at the global and national rates of inflation. The index above may have recovered its value and continued upwards, but this is being fuelled by a new return to the cycle of taking out credit, and going into debt. This is the logic of the current situation.
 
 We can now return to talking about the Australian car industry. Take a look at this graphical representation of some data from the Australian Bureau of Statistics. This graph represents the value of Australian automotive exports in millions of Australian dollars. 
 
-![Australian Auto Exports](concept-of-a-car/aus-auto-exports.png)
+![Australian Auto Exports](/concept-of-a-car/aus-auto-exports.png)
 
 As you can see, there is dramatic collapse in the value of automotive exports around the time of the Global Financial Crisis in 2007-2008. The data set does not continue past 2015, but you can see that the value of car exports has never quite recovered to its pre-GFC levels. The GFC caused an economic phenomenon called deflation. The bursting of the crazy cycle of borrowing and lending on the world market caused the prices of Australian cars to drop. A key reason why the GFC caused deflation is that people are too deep in debt to buy cars, and companies that are also in large amounts of debt tend to try and get out of debt by making cars. Marx calls this over-production.
 
