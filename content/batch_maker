@@ -1,0 +1,42 @@
+#!/bin/bash
+# script to make batch files for wget
+
+cd 01\ February/
+ls >> feb_dir.txt
+sed 's/^/https:\/\/bootlicker.party\/vlog\/2015\/01%20February\//' feb_dir.txt >> feb_dir_finished.txt
+cd ..
+
+cd 02\ March/
+ls >> mar_dir.txt
+sed 's/^/https:\/\/bootlicker.party\/vlog\/2015\/02%20March\//' mar_dir.txt >> mar_dir_finished.txt
+cd ..
+
+cd 03\ April/
+ls >> apr_dir.txt
+sed 's/^/https:\/\/bootlicker.party\/vlog\/2015\/03%20April\//' apr_dir.txt >> apr_dir_finished.txt
+cd ..
+
+cd 04\ May/
+ls >> may_dir.txt
+sed 's/^/https:\/\/bootlicker.party\/vlog\/2015\/04%20May\//' may_dir.txt >> may_dir_finished.txt
+cd ..
+
+cd 05\ June/
+ls >> jun_dir.txt
+sed 's/^/https:\/\/bootlicker.party\/vlog\/2015\/05%20June\//' jun_dir.txt >> jun_dir_finished.txt
+cd ..
+
+cd 06\ July/
+ls >> jul_dir.txt
+sed 's/^/https:\/\/bootlicker.party\/vlog\/2015\/06%20July\//' jul_dir.txt >> jul_dir_finished.txt
+cd ..
+
+cd 07\ August/
+ls >> aug_dir.txt
+sed 's/^/https:\/\/bootlicker.party\/vlog\/2015\/07%20August\//' aug_dir.txt >> aug_dir_finished.txt
+cd ..
+
+cd 08\ September/
+ls >> sep_dir.txt
+sed 's/^/https:\/\/bootlicker.party\/vlog\/2015\/08%20September\//' sep_dir.txt >> sep_dir_finished.txt
+cd ..
