@@ -46,8 +46,67 @@ mastodon client, NNTP is a convenient
 text based communication protocol, and 
 email has long used the command line.
 
-The Kindleberry Pi
+# The Kindleberry Pi
 
-[First version](http://ponnuki.net/2012/09/kindleberry-pi/)
+The Kindleberry Pi presents itself as an 
+excellent candidate for replacing my 
+phone. It is the combination of a 
+Raspberry Pi ssh'ed into a jailbroken 
+Amazon kindle. The combination of two low 
+power computers and an e-paper screen 
+makes for a device which is excellent on 
+power performance.
+
+The Raspberry Pi is also compatible with 
+GPS modules, and one can combine the 
+Kindleberry with a cell data router in 
+order to allow you to use the net in 
+public. As you can see below, the cell 
+data router can be used to connect the 
+Raspberry Pi and the Kindle together for 
+the SSH session as well.
+
+## The Three Previous Kindleberry Builds
+
+Here are the three previous separate 
+attempts at the Kindleberry:
+
+The [First version](http://ponnuki.net/2012/09/kindleberry-pi/)
+
+![First Version](kindleberry/kindle_berry_pi.jpg)
+
 [Second version, a wireless version](https://maxogden.com/kindleberry-wireless.html)
+
+![Second Version](kindleberry/kindle-table.png)
+
 [Third version, using the Zero W Raspberry Pi model](http://blog.yarm.is/kindleberry-pi-zero-w.html)
+
+![Third Version](kindleberry/KindleberryPiZeroW.jpg)
+
+## The Cigar Box and the Mechanical Keyboard
+
+I will build the Kindleberry with a 40% 
+mechanical keyboard. 40% sized keyboards 
+are roughly 3 inches long, and this suits 
+the combined length of the cigar box I 
+will be fitting the entire project into. 
+
+The cigar box I have is 292mm wide, and 
+189mm long, across the lid. Any longer 
+and wider out, and the components would 
+be cutting into the housing of the box.
+
+I will use a Kindle 3, AKA a Kindle 
+Keyboard, because it is easy to 
+jailbreak, and it has a 6 inch screen. 
+That makes for a 120mm wide screen. The 
+length, however, is 96mm. A 3 inch long 
+mechanical keyboard is approximately 
+76.2mm long, so these two major 
+components will definitely fit into this 
+housing.
+
+I want to have passthrough charging for 
+this device, so I will find a board from 
+Adafruit or somewhere which will allow 
+this.
