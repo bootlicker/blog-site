@@ -11,8 +11,8 @@ has many poor features:
 1. Poor battery life.
 2. Awful touch screen 'soft' keyboard
 3. Full of 'Google Services' CPU 
-processes that require the operating 
-system to function.
+processes that the operating 
+system requires to function.
 4. Poor cell data reception.
 5. Weak construction that is difficult to 
 repair: I dropped it, and the glass 
@@ -73,15 +73,15 @@ attempts at the Kindleberry:
 
 The [First version](http://ponnuki.net/2012/09/kindleberry-pi/)
 
-![First Version](kindleberry/kindle_berry_pi.jpg)
+<img src="/kindleberry/kindle_berry_pi.jpg" width=25%>
 
 [Second version, a wireless version](https://maxogden.com/kindleberry-wireless.html)
 
-![Second Version](kindleberry/kindle-table.png)
+<img src="/kindleberry/kindle-table.png" width=25%>
 
 [Third version, using the Zero W Raspberry Pi model](http://blog.yarm.is/kindleberry-pi-zero-w.html)
 
-![Third Version](kindleberry/KindleberryPiZeroW.jpg)
+<img src="/kindleberry/KindleberryPiZeroW.jpg" width=25%>
 
 ## The Cigar Box and the Mechanical Keyboard
 
