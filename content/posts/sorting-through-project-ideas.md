@@ -4,7 +4,7 @@ date: 2018-05-20T15:51:56+10:00
 draft: false
 ---
 
-I am setting all my Sega Megadrive collection, all my unused Xbox One games, and all my unused N64 games. I am hoping to make about AUD$1200 from the sale. Since I don't get a lot of opportunities for doing discretionary spending, I always end up changing my mind about what I want to do with sums of money like this.
+I am selling all my Sega Megadrive collection, all my unused Xbox One games, and all my unused N64 games. I am hoping to make about AUD$1200 from the sale. Since I don't get a lot of opportunities for doing discretionary spending, I always end up changing my mind about what I want to do with sums of money like this.
 
 So in this blog post, I will list the ideas I have for using this money.
 
