@@ -3,7 +3,7 @@ title: "A Poem for Everyone Who Feels Pathetic"
 date: 2018-05-21T23:18:09+10:00
 draft: false
 ---
-``
+
 carl sagan says <br>
 the exploration of the cosmos <br>
 is a voyage <br>
@@ -24,4 +24,3 @@ had ever guessed", <br>
 becoming an adult seems <br>
 like the most difficult thing <br>
 one can ever do. <br>
-``
