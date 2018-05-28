@@ -4,24 +4,24 @@ date: 2018-05-21T23:18:09+10:00
 draft: false
 ---
 ``
-carl sagan says 
-the exploration of the cosmos 
-is a voyage 
-of self-discovery
-.
-the navigation of my
-emotional cosmos,
-my voyage of self-discovery,
-i thought,
-was taking one path
-and not another
-.
-in much the same way
-that learning about stars
-makes the universe
-"much grander than [one]
-had ever guessed",
-becoming an adult seems
-like the most difficult thing
-one can ever do.
+carl sagan says <br>
+the exploration of the cosmos <br>
+is a voyage <br>
+of self-discovery <br>
+. <br>
+the navigation of my <br>
+emotional cosmos, <br>
+my voyage of self-discovery, <br>
+i thought, <br>
+was taking one path <br>
+and not another <br>
+. <br>
+in much the same way <br>
+that learning about stars <br>
+makes the universe <br>
+"much grander than [one] <br>
+had ever guessed", <br>
+becoming an adult seems <br>
+like the most difficult thing <br>
+one can ever do. <br>
 ``
