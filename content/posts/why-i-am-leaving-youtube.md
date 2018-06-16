@@ -5,6 +5,7 @@ draft: false
 ---
 
 # How YouTube Appears, _Prima Facie_
+
 YouTube is a website run and owned by 
 Google, one of the largest, wealthiest, 
 and most powerful multi-national 
@@ -27,6 +28,7 @@ an apparently open and democratic manner.
 Anyone is allowed to upload a video at 
 any time, at no restriction of file size, 
 or video length.
+
 ## A Closer Look: The Dangers of YouTube
 While YouTube seems at first glance to be 
 a wonderful and positive tool for 
