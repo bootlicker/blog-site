@@ -1,7 +1,7 @@
 baseURL = "https://bootlicker.party/"
 languageCode = "en-au"
 title = "BOOTLICKER"
-theme = "elephants"
+theme = "rhinos"
 
 [params]
     sitename = "BOOTLICKER"
