@@ -1,3 +1,9 @@
+--
+title: "Bosses In The Coffee Shop"
+date: 2018-06-21T22:56:41Z
+draft: false
+---
+
 I was sitting in a coffee shop this morning, and it was difficult for me to focus my thoughts. Sittinf adjacent to me were I assume to be two business people. They were probably five years older than me. I think one was a business owner, and the other was a recruiter. I think the business owner woman was looking to employ more people for her business.
 
 The whole conversation they had was jarring. Thry spouted so much jargon and so many buzz words that it was impossible to have any peace of mind while drinking my coffee. The recruiter, a man, talked about how he would jet set around the world, and how he had recruited for so many businesses in America and England.
