@@ -1,6 +1,6 @@
---
-title: "Bosses In The Coffee Shop"
-date: 2018-06-21T22:56:41Z
+---
+title: "Listening to Bosses in a Cafe"
+date: 2018-06-22T01:54:29Z
 draft: false
 ---
 
