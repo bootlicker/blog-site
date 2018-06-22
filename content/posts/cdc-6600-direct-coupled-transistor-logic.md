@@ -83,7 +83,7 @@ This interchange is _n_ paralleled **OR** gates driving _m_ paralleled loads.
 
 Angell explains that two conditions are necessary in order to make this interchange work:
 
-1. When all the input gates are off (V(C)=0.2V), all the output loads must be on (V(C)=1.2V).
+1. When all the input gates are off (V( C)=0.2V), all the output loads must be on (V( C)=1.2V).
 2. The conduction in any one of the **OR** gates must turn off all the output loads.
 
 The first condition is fulfilled by the following inequality:
@@ -104,9 +104,9 @@ The important factors in this particular example, therefore, are:
 
 1. The input impedance of a conducting transistor must not be too low. This problem can be solved by setting a maximum limit on the the **ON** base current for a particular base voltage. This way, no one output transistor will take too much of the available driving current.
 
-2. The output impedance of the **OR** transistor network must not be too high. One method of solving _this_ problem is to make sure that the V(CE) of the input transistors is LESS than a certain limit for a given I(C) and V(BE). _Another_ method would be to limit the I(C) with respect to given V(BE) and V(CE). The absolute minimum limit for either of these conditions, the lowest V(CE) or lowest I(C) is determined by the minimum transistor gain. This minimum individual transistor gain will be much greater than the overall circuit gain. However, this individual transistor gain will be much _smaller_ than if the transistor were in the active or non-saturated region. So it is a careful balancing act of switching current from the collectors of input **OR** network into the bases of the output network.
+2. The output impedance of the **OR** transistor network must not be too high. One method of solving _this_ problem is to make sure that the V(CE) of the input transistors is LESS than a certain limit for a given I( C) and V(BE). _Another_ method would be to limit the I( C) with respect to given V(BE) and V(CE). The absolute minimum limit for either of these conditions, the lowest V(CE) or lowest I( C) is determined by the minimum transistor gain. This minimum individual transistor gain will be much greater than the overall circuit gain. However, this individual transistor gain will be much _smaller_ than if the transistor were in the active or non-saturated region. So it is a careful balancing act of switching current from the collectors of input **OR** network into the bases of the output network.
 
-3. The "off" collecor current of a non-conducting transistor must not be too large. This means the "off" I(C) must have a maximum limit compared to its "off", non-conducting base voltage (V(BE)).
+3. The "off" collecor current of a non-conducting transistor must not be too large. This means the "off" I( C) must have a maximum limit compared to its "off", non-conducting base voltage (V(BE)).
 
 All of this boils down to the following: In order to have compatible connections between DCTL logical elements, V(CE) "on" [Logical "0"] =< V(BE) "off" [Logical "1"] for any particular logical element. Angell explains that it is permissible to sacrifice gain in some instances in order to reduce the V(CE) of a given logic element.
 
@@ -114,11 +114,11 @@ Combining the two inequalities above when considering the above interchange, you
 
 <img src="/6600_DCTL/DCTL_Fan_Eq3.jpg" width=50% >
 
-As Angell explains, the result shows that the input transistor gain must be greater than the (a) circuit gain; multiplied by (b) _m_, the number of output loads; and (c) factors accounting for the tolerances of the components.
+As Angell explains, the result shows that the input transistor gain must be greater than the (a) circuit gain; multiplied by (b) _m_, the number of output loads; and ( c) factors accounting for the tolerances of the components.
 
 You can derive a rule of thumb to follow if the networks of logic elements is too great:
 
-I(C) "on" / I(B) "on" [Logical "0"] > 2_m_
+I( C) "on" / I(B) "on" [Logical "0"] > 2_m_
 
 So the gain of a saturated transistor must be greater than twice the number of output loads.
 
