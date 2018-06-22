@@ -1,6 +1,6 @@
 ---
 title: "Got Hugo Working on My Phone"
-date: 2018-06-22T23:28:23Z
+date: 2018-06-23T09:28:23Z
 draft: false
 ---
 
