@@ -31,11 +31,11 @@ Anyway here is the basic building block of DCTL:
 
 The CDC 6600's inverter:
 
-<img src="6600_DCTL/DCTL_NPN_Inverter.jpg" width=50% >
+<img src="/6600_DCTL/DCTL_NPN_Inverter.jpg" width=50% >
 
 The 1950s DCTL inverter:
 
-<img src="6600_DCTL/PNP_Inverters.jpg" width=50% >
+<img src="/6600_DCTL/PNP_Inverters.jpg" width=50% >
 
 By the time the 6600 was built, transistor fabrication had developed and improved markedly. In fact the first few pages of the chapter of the CDC-published book on the digital electronics of the 6600's DCTL go on about how the new silicon transistors they used in '69/'70 made the 6600 possible. So this explains why the 6600 uses NPNs, as opposed to the older implementation using PNPs.
 
@@ -47,7 +47,7 @@ The first problem you have with DCTL is -- how do you make sure you can switch t
 
 Take a look at the special transistor characteristics that the conference proceeding document outlines:
 
-<img src="6600_DCTL/Tran_Characteristics.jpg" width=50% >
+<img src="/6600_DCTL/Tran_Characteristics.jpg" width=50% >
 
 This is obviously based on an old understanding of exactly how well-designed transistors are, but you can see we're only switching very small amounts of current, and the V(BE) of the operation of the transistors when in saturation/conduction is far lower than your standard BC548/9 or 2N3904/6.
 
@@ -57,7 +57,7 @@ I haven't checked yet, but I believe transistors with these kinds of characteris
 
 The logic levels of DCTL circuitry in the 6600 are very very close together. As you can see the V(BE) of the 6600 transistors closer resembles the operation of modern transistors.
 
-<img src="6600_DCTL/CDC6600_Logic_Levels.jpg" width=50% >
+<img src="/6600_DCTL/CDC6600_Logic_Levels.jpg" width=50% >
 
 At this stage, I became very interested about how noise is dealt with in DCTL circuits, because the logic levels are nowhere near as far apart as 0-5V as in TTL.
 
@@ -77,7 +77,7 @@ Generally speaking, fan-in will be much higher than fan-out in this logic family
 
 To take a look at the limits you come up against when designing DCTL circuits, consider the following interchange:
 
-<img src="6600_DCTL/DCTL_interchange.jpeg" width=50%>
+<img src="/6600_DCTL/DCTL_interchange.jpeg" width=50%>
 
 This interchange is _n_ paralleled **OR** gates driving _m_ paralleled loads.
 
@@ -88,13 +88,13 @@ Angell explains that two conditions are necessary in order to make this intercha
 
 The first condition is fulfilled by the following inequality:
 
-<img src="6600_DCTL/DCTL_Fan_Eq1.jpg" width=50% >
+<img src="/6600_DCTL/DCTL_Fan_Eq1.jpg" width=50% >
 
 The term on the left is the smallest possible load current. The term on the right is the leakage current in all of the gates in the interchange _plus_ the minimum required load. 
 
 The second condition is satisfied by the following inequality:
 
-<img src="6600_DCTL/DCTL_Fan_Eq2.jpg" width=50% >
+<img src="/6600_DCTL/DCTL_Fan_Eq2.jpg" width=50% >
 
 It means that the collector current of one conducting gate must be greater than the maximum possible current in the load resistor. Here, the node voltage is equal to the specific limit voltage required to maintain the load transistors in the nonconducting state.
 
@@ -112,7 +112,7 @@ All of this boils down to the following: In order to have compatible connections
 
 Combining the two inequalities above when considering the above interchange, you can solve for the gain of an individual transistor in conduction. This produces the following inequality:
 
-<img src="6600_DCTL/DCTL_Fan_Eq3.jpg" width=50% >
+<img src="/6600_DCTL/DCTL_Fan_Eq3.jpg" width=50% >
 
 As Angell explains, the result shows that the input transistor gain must be greater than the (a) circuit gain; multiplied by (b) _m_, the number of output loads; and (c) factors accounting for the tolerances of the components.
 
@@ -136,17 +136,17 @@ There is therefore a lot of work required to match logic element input and outpu
 
 Consider the following 6600 NPN and 1950s PNP basic logic elements:
 
-<img src="6600_DCTL/CDC6600_AND_OR.jpg" width=50% >
+<img src="/6600_DCTL/CDC6600_AND_OR.jpg" width=50% >
 
-<img src="6600_DCTL/CDC660_Flip_Flop.jpg" width=50% >
+<img src="/6600_DCTL/CDC660_Flip_Flop.jpg" width=50% >
 
-<img src="6600_DCTL/PNP_OR_AND_FlipFlop.jpg" width=50% >
+<img src="/6600_DCTL/PNP_OR_AND_FlipFlop.jpg" width=50% >
 
 After matching all of the impedances of logic elements, you are rewarded with _very_ simple circuitry.
 
-<img src="6600_DCTL/PNP_HalfAdder.jpg" width=50% >
+<img src="/6600_DCTL/PNP_HalfAdder.jpg" width=50% >
 
-<img src="6600_DCTL/PNP_OneShot.jpg" width=50% >
+<img src="/6600_DCTL/PNP_OneShot.jpg" width=50% >
 
 ## Switching Times
 
