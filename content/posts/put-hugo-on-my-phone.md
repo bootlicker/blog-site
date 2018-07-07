@@ -1,6 +1,6 @@
 ---
-title: "Got Hugo Working on My Phone"
-date: 2018-06-23T09:28:23Z
+title: "Put Hugo on My Phone"
+date: 2018-06-23T11:28:36Z
 draft: false
 ---
 
