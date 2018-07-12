@@ -1,5 +1,5 @@
 ---
-title: "My Current Cv"
+title: "My Current CV"
 date: 2018-07-12T19:55:46+10:00
 draft: false
 ---
