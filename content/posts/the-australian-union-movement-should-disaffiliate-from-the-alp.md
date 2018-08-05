@@ -1,5 +1,5 @@
 ---
-title: "The Australian Union Movement Should Disaffiliate From the ALP"
+title: "The Union Movement Should Disaffiliate From the ALP"
 date: 2018-08-06T01:47:33+10:00
 draft: false
 ---

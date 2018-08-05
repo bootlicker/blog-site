@@ -28,7 +28,7 @@ draft: false
 
 <h1>Inverter Simulation</h1>
 
-[https://www.youtube.com/embed/Dzy130OhlYY](Inverter Simulation YouTube Video)
+[Inverter Simulation YouTube Video](https://www.youtube.com/embed/Dzy130OhlYY)
 
 <p>Conventional current flows up through the emitter of the transistor, and out through the collector. Depending on whether there is 0V/ZERO or -3V/ONE at the INPUT terminal determines whether current will flow out through the base of the transistor and cause it to saturate.</p>
 
@@ -44,7 +44,7 @@ draft: false
 
 <p>As you can see, this is the heart of the R201 Flip-Chip:</p>
 
-<img src="https://bootlicker.party/raven-discrete-computer/log-4/flip-flop-r201.png" width=80%>
+<img src="https://bootlicker.party/raven-discrete-computer/log-4/flip-flop-201.png" width=80%>
 
 <p>What, then, is the rest of the circuitry in this schematic?</p>
 
@@ -64,7 +64,7 @@ draft: false
 
 <p>See the following simulation:</p>
 
-[https://www.youtube.com/embed/j7gl-JNBt8g](DCD Gate Simulation YouTube Link)
+[DCD Gate Simulation YouTube Link](https://www.youtube.com/embed/j7gl-JNBt8g)
 
 <h1>Creating D and JK Flip-Flops</h1>
 
@@ -82,7 +82,7 @@ draft: false
 
 <p>This simulation demonstrates a JK Flip-Flop constructed from a DCD-gated Flip-Flop:</p>
 
-[https://www.youtube.com/embed/96dTc_yumO4](DCD-Gated Flip-Flop Simulation YouTube Link)
+[DCD-Gated Flip-Flop Simulation YouTube Link](https://www.youtube.com/embed/96dTc_yumO4)
 
 <p>This serves as the basis for this Up-Down Binary Counter Register:</p>
 
