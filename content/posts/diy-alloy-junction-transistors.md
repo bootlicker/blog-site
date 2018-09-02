@@ -44,7 +44,7 @@ Dice your germanium wafers into wafers required to manufacture the base of the t
 
 The wafer of germanium forms the alloy-junction in this way. It is sandwiched between two melted pellets of semiconductor alloy:
 
-<img src="/alloy-junction-transistors/diagram-of-transistor.jpg">
+<img src="/alloy-junction-transistors/diagram-of-transistor.gif">
 
 The [Wikipedia reference](http://www.thevalvepage.com/trans/manufac/manufac1.htm) mentioned above suggests that an ''ultrasonic drill'' can satisfactorily dice germanium wafers into the right size.
 
