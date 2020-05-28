@@ -1,0 +1,6 @@
+- b'Adorable-Rusty-Photo'
+- b'http://i.imgur.com/Zl0A6erm.jpg'
+- b'Mozilla-Developer-Network-HTML'
+- b'https://developer.mozilla.org/en-US/docs/Web/HTML'
+- b'Slides'
+- b'http://webdev.slides.com/coltsteele/deck-7-50'
